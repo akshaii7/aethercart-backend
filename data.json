@@ -1,0 +1,4237 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$eo0QFdj7u74ZcfueZdXu4X$qsONrH9L1eU/3/nZ159IilBm9F1FVNpL6VdEB4FORZY=",
+        "last_login": "2026-06-24T08:27:38.346Z",
+        "is_superuser": true,
+        "username": "akshai",
+        "first_name": "",
+        "last_name": "",
+        "email": "itsakshai17@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-05-14T18:38:45.866Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$n9Wb2Zfu3NuCadX5mtDTUa$T5hB6N6oOA1e+q0JbgjjzpH5eshcA3LPiswixRe6thI=",
+        "last_login": "2026-06-02T19:52:54.773Z",
+        "is_superuser": true,
+        "username": "Akshaii",
+        "first_name": "",
+        "last_name": "",
+        "email": "itsakshai17@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-06-02T19:52:25.064Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$DclaxzOEn99zPgab9pwGhK$xwTMd/16ewAdoFmTkpnhJ7Pjinw4va9fXjKAaquc+f0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "achu",
+        "first_name": "",
+        "last_name": "",
+        "email": "akshaimadrid@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-10T12:41:54.865Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$IbuFgNwg4DsdHlRAQYSjq2$rbqVB6D2Slpnn+G4xMDzKB55C14etce1U0srniymiBg=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "achu12",
+        "first_name": "",
+        "last_name": "",
+        "email": "akshaimadrid@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-10T12:50:58.784Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$jLfL1whbTSofPnrS3Q0SD1$JWofe6Ezga85figCR3Oc4rmZYKQl2T71YdiUmpKpAIE=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "kroos",
+        "first_name": "",
+        "last_name": "",
+        "email": "kroos@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-14T14:18:37.036Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$riPVqSMbZ1ATWy6BxyDcDi$FrRcY6UWnqlXqX9XbwnS6W3P7EB6fTgCEdkVaE5uMvw=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "devnand",
+        "first_name": "",
+        "last_name": "",
+        "email": "dev@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-23T09:07:27.926Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$cCjGNCAbVaLzAnLhJsjYMW$TPauo0JdaAAvfEf95fEGxYoTgxTp36gMkn1MmpocEUg=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "subha",
+        "first_name": "",
+        "last_name": "",
+        "email": "subha@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-28T08:15:11.260Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$wSRoYzLpGRBOU2pBK40OTs$Kq4/6MwbVRZIw/7cGGIHywKW/+Qq1ck9w6RspTa4T5c=",
+        "last_login": "2026-06-29T07:35:01.474Z",
+        "is_superuser": true,
+        "username": "Akshai",
+        "first_name": "",
+        "last_name": "",
+        "email": "akshaiachu521@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-06-29T07:34:33.604Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$OowqLzu6ar8wMXet8uxDVj$NciCV83ah4dtcYfkLbguK/rR15oyL4X2vvaveQ0+t0c=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "testuser",
+        "first_name": "",
+        "last_name": "",
+        "email": "testuser@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-07T15:31:22.287Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$8S1CCpf2fubX7X6QjlA7gT$/5m5DlEEV0Fj8alWDRq7nviy6TTpmIShbLbgRHWhmak=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "testagent",
+        "first_name": "",
+        "last_name": "",
+        "email": "testagent@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-08T16:47:20.788Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$GhlBb1bg8JL9pabCGwrVnU$mrWq4/lmppZenYPOulKDYleyYf08SJwe8Zyzb5jOpD4=",
+        "last_login": "2026-07-17T07:47:26.446Z",
+        "is_superuser": true,
+        "username": "akshai17",
+        "first_name": "",
+        "last_name": "",
+        "email": "akshaiachu521@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-07-08T17:09:11.105Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$YkWqrYDjUg3x1OcZBU009X$4jeuQikFXX4DlhsmDpNFxwk27WGMQkjB4xtybySIJjM=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Akshay",
+        "first_name": "",
+        "last_name": "",
+        "email": "itsakshai17@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-09T06:20:04.470Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$BmSa7VTQuoOi8va70vj3Tx$Avpct0O/6pRkmOQY5m2NKdd4GmbVwUtkIJafeu5KYcc=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "Rahulsharma",
+        "first_name": "",
+        "last_name": "",
+        "email": "rahul@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-07-09T06:25:29.404Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "21hv0io8kjrqvugavp0n521xis4fp664",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGllZx19Kes4QeXdtHEC2FCcV4u4QKQW0b2beS0xxW8u09bRMM4uzACtOvyNGeqS6E77HemuSWl2XGeWuyIN2eW2cnpfD_TsosZdvbT0r45DHgAToVNDGZ9CgmT1QjjY7PWqfyWlCl2CgxMYP2QaEwRgl3h8F2jfk:1wkdI6:KsHu_F46YLJRyn2j6levpxucX46RyaD87VDFseNhgnI",
+        "expire_date": "2026-07-31T07:47:26.447Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "2luzea5y5wpbnb3g0uh5gxg6s8x3ndby",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGllZx19Kes4QeXdtHEC2FCcV4u4QKQW0b2beS0xxW8u09bRMM4uzACtOvyNGeqS6E77HemuSWl2XGeWuyIN2eW2cnpfD_TsosZdvbT0r45DHgAToVNDGZ9CgmT1QjjY7PWqfyWlCl2CgxMYP2QaEwRgl3h8F2jfk:1wkdFs:7GooHPwNmd-gkT51dt9lX6fSh15VLqR96af0vgmRzZc",
+        "expire_date": "2026-07-31T07:45:08.404Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "c14qxbx7zz1ht6f80i1qeshalh7tthzv",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pBCAQeX7nsGMsxMpWpoUtqV8e7apAvd_vfef6mE21rS1mRJE6uLMur0u2Wkh9Qd8B3rbdY013WZst4VfdCmh5nleT3cv4OCrXxrK2xGit4IjggE4Ho0zjrMyNb2FDrTAZw5hhgEIUqgzMIYPUvw5NX7A_kjOJ0:1wbfah:gSwsFrWpDMMyyAs6Gl4QUG6aUfECMUxg4xpAHJao9E8",
+        "expire_date": "2026-07-06T14:25:35.452Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "cuh7kj7av7jyoh8z42gn4lhydybv4skf",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pBCAQeX7nsGMsxMpWpoUtqV8e7apAvd_vfef6mE21rS1mRJE6uLMur0u2Wkh9Qd8B3rbdY013WZst4VfdCmh5nleT3cv4OCrXxrK2xGit4IjggE4Ho0zjrMyNb2FDrTAZw5hhgEIUqgzMIYPUvw5NX7A_kjOJ0:1wcIxO:5F-3loBsnAumxuRXdIxRpgrajhMjK1OFfJnqlp7ZIpQ",
+        "expire_date": "2026-07-08T08:27:38.347Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "my212i99mvzcziiqadooiqluop2awt4t",
+    "fields": {
+        "session_data": ".eJxVjDEOgzAMAP_iuYpwYmhg7M4bkO2YhrYCicBU9e8VEkO73p3uDQPvWx72YuswJeiA4PLLhPVp8yHSg-f74nSZt3USdyTutMX1S7LX7Wz_BplLhg4QjX3rY0OjpTB6s0BYi0ZpPXNSbqiqqU04BtSrIHnzQpVSJEXBAJ8v7Y835A:1wVtlP:eDNnOZGlfumRYnh1MVVz1ZKjG_RbW6CsP2h19LzoZR4",
+        "expire_date": "2026-06-20T16:20:47.359Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "q1y4nx8xlr4e5cdu837nvvdeobs0a840",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP-yZ0NAWmB79N43kF1YpGrapLQn499Nkx70OjOZN0Tatxr3JmucMgxg4fLLmNJT5kPkB833RaVl3taJ1ZGo0zY1Lllet7P9G1RqFQbQHoPrTceZi8NMLqEVZ7VNpqOMSHI1qJ3xiLoEyyziNFMoxKHXPsDnC9bYN7U:1wSyJH:CmThFuzKc0ME8G1fZwWRomPWQNsK82XLgS0nhI202SY",
+        "expire_date": "2026-06-12T14:35:39.988Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "zkw68j81aiuzc44gdt3rnw4tqr6opl1c",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQAP-yZ0MKBYQevfcNzbK7laqBpLQn499Nkx70OjOZN0y4b3nam6zTwjCAhssvS0hPKYfgB5Z7VVTLti5JHYk6bVNjZXndzvZvkLFlGMAI65mi04IzBgrB9qitsZiQjenJd7oL4crRRy8YonhKLIzRsXhHDj5f-SM4nQ:1wNay8:bGm_VG_cpwJJ6jUSFA8cFZuojSJ7O02dD6De_1Ou7OI",
+        "expire_date": "2026-05-28T18:39:36.873Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "Akshaii"
+        ],
+        "name": "Akshaii",
+        "email": "itsakshai17@gmail.com",
+        "phone": "9846988251",
+        "address": "Name: Akshaii\r\nAddress: Akshai\" s Home Triavndrum\r\nCity: Trivandrum\r\nState: Kerala\r\nPIN: 695001\r\nCountry: India\r\nPhone: 9846988251",
+        "profile_image": "profile_images/WhatsApp_Image_2026-06-21_at_12.36.47.jpeg",
+        "role": "admin",
+        "created_at": "2026-05-17T09:56:12.988Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 3,
+    "fields": {
+        "user": null,
+        "name": "varun Prabhakar",
+        "email": "varun.driver@gmail.com",
+        "phone": "9895123456",
+        "address": "Pattom Junction, Trivandrum, Kerala",
+        "profile_image": "",
+        "role": "driver",
+        "created_at": "2026-05-19T18:24:50.105Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 4,
+    "fields": {
+        "user": null,
+        "name": "Achu",
+        "email": "itsakshai17@gamil.com",
+        "phone": "9846988251",
+        "address": "ajin nivas parayam vilakam anad po nedumagad trivandrum",
+        "profile_image": "",
+        "role": "customer",
+        "created_at": "2026-06-09T13:10:37.062Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 5,
+    "fields": {
+        "user": [
+            "achu"
+        ],
+        "name": "achu",
+        "email": "akshaimadrid@gmail.com",
+        "phone": "9846988251",
+        "address": "Attipara village technopark campus plot no .1 thiruvanathapuram kerala",
+        "profile_image": "",
+        "role": "coustomer",
+        "created_at": "2026-06-10T12:41:55.826Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 6,
+    "fields": {
+        "user": [
+            "kroos"
+        ],
+        "name": "kroos",
+        "email": "kroos@gmail.com",
+        "phone": "9846988254",
+        "address": "Attipara village technopark campus plot no .1 thiruvanathapuram kerala",
+        "profile_image": "",
+        "role": "customer",
+        "created_at": "2026-06-14T14:18:38.208Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 7,
+    "fields": {
+        "user": [
+            "devnand"
+        ],
+        "name": "devnand",
+        "email": "dev@gmail.com",
+        "phone": "9995727263",
+        "address": "devhome",
+        "profile_image": "",
+        "role": "customer",
+        "created_at": "2026-06-23T09:07:28.011Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 8,
+    "fields": {
+        "user": [
+            "subha"
+        ],
+        "name": "subha",
+        "email": "subha@gmail.com",
+        "phone": "8129081163",
+        "address": "subh\"bhavan",
+        "profile_image": "",
+        "role": "customer",
+        "created_at": "2026-06-28T08:15:11.344Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 9,
+    "fields": {
+        "user": [
+            "testuser"
+        ],
+        "name": "testuser",
+        "email": "testuser@example.com",
+        "phone": "1234567890",
+        "address": "123 Test Street",
+        "profile_image": "",
+        "role": "customer",
+        "created_at": "2026-07-07T15:31:22.379Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 10,
+    "fields": {
+        "user": [
+            "Rahulsharma"
+        ],
+        "name": "Rahulsharma",
+        "email": "rahul@gmail.com",
+        "phone": "9876543210",
+        "address": "45 MG Road, Kochi, Kerala 682001",
+        "profile_image": "profile_images/2026-07-04_12.24.02.jpg",
+        "role": "customer",
+        "created_at": "2026-07-09T06:25:29.512Z"
+    }
+},
+{
+    "model": "cart.cartitem",
+    "pk": 104,
+    "fields": {
+        "customer": 8,
+        "product": 16,
+        "quantity": 1,
+        "added_at": "2026-06-28T14:55:05.554Z"
+    }
+},
+{
+    "model": "cart.cartitem",
+    "pk": 123,
+    "fields": {
+        "customer": 8,
+        "product": 16,
+        "quantity": 1,
+        "added_at": "2026-07-04T09:59:46.876Z"
+    }
+},
+{
+    "model": "cart.cartitem",
+    "pk": 141,
+    "fields": {
+        "customer": 10,
+        "product": 16,
+        "quantity": 1,
+        "added_at": "2026-07-09T06:26:34.180Z"
+    }
+},
+{
+    "model": "cart.cartitem",
+    "pk": 144,
+    "fields": {
+        "customer": 2,
+        "product": 26,
+        "quantity": 1,
+        "added_at": "2026-07-12T07:47:56.634Z"
+    }
+},
+{
+    "model": "reviews.review",
+    "pk": 1,
+    "fields": {
+        "product": 17,
+        "customer": 8,
+        "rating": 5,
+        "comment": "exllent product",
+        "created_at": "2026-07-01T07:58:38.290Z"
+    }
+},
+{
+    "model": "reviews.review",
+    "pk": 2,
+    "fields": {
+        "product": 19,
+        "customer": 2,
+        "rating": 5,
+        "comment": "Experience uncompromising performance with the iPhone 17 Pro Max. Powered by the A19 Pro chip, featuring a 48MP Fusion camera, 4K Dolby Vision recording, and all-day battery life. Designed for speed, creativity, and the future.",
+        "created_at": "2026-07-05T17:22:39.697Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 16,
+    "fields": {
+        "name": "Shadow Oversized Hoodie",
+        "brand": "Shadow",
+        "description": "The Shadow Oversized Hoodie combines premium comfort with modern streetwear style. Crafted from heavyweight cotton fabric, it features an oversized fit, dropped shoulders, ribbed cuffs, and a spacious kangaroo pocket. Designed for everyday wear, it delivers a clean minimalist aesthetic with exceptional comfort and durability.",
+        "price": "3499.00",
+        "stock": 25,
+        "category": "fashion",
+        "image": "products/hoddies_black_mZjw6Ef.png",
+        "is_available": true,
+        "created_at": "2026-06-08T08:44:44.735Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 17,
+    "fields": {
+        "name": "Nike Shox TL",
+        "brand": "Nike",
+        "description": "Nike Shox TL is a stylish white sneaker with a clean premium look and bold black Nike Swoosh branding. It features a breathable mesh upper with synthetic leather overlays for durability and structure. The signature Shox cushioning system at the heel gives the shoe a unique sporty design and comfortable support. Its chunky retro style makes it perfect for casual wear, streetwear outfits, and everyday fashion. The white colorway gives it a clean and versatile look that matches easily with jeans, cargos, joggers, or shorts.",
+        "price": "3299.00",
+        "stock": 25,
+        "category": "fashion",
+        "image": "products/IMG_6541.jpg",
+        "is_available": true,
+        "created_at": "2026-06-08T16:06:17.821Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 19,
+    "fields": {
+        "name": "Iphone 17 Pro Max",
+        "brand": "Apple",
+        "description": "Experience uncompromising performance with the iPhone 17 Pro Max. Powered by the A19 Pro chip, featuring a 48MP Fusion camera, 4K Dolby Vision recording, and all-day battery life. Designed for speed, creativity, and the future.",
+        "price": "149000.00",
+        "stock": 10,
+        "category": "electronics",
+        "image": "products/image_WxQ6Mt3.png",
+        "is_available": true,
+        "created_at": "2026-07-05T17:09:53.252Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 20,
+    "fields": {
+        "name": "Lumira Wellness Hydrating Face Serum",
+        "brand": "Lumira Wellness",
+        "description": "A lightweight, fast-absorbing face serum enriched with Hyaluronic Acid, Niacinamide, and Vitamin E to deeply hydrate, brighten, and restore your skin’s natural glow. Suitable for all skin types.",
+        "price": "1299.00",
+        "stock": 6,
+        "category": "beauty",
+        "image": "products/photo_2026-07-12_11.32.25.jpeg",
+        "is_available": true,
+        "created_at": "2026-07-12T06:06:57.257Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 21,
+    "fields": {
+        "name": "Innisfree Green Tea Seed Intensive Hydrating Serum",
+        "brand": "Innisfree",
+        "description": "A lightweight, deeply hydrating facial serum enriched with Green Tea Seed and Hyaluronic Acid to replenish moisture, strengthen the skin barrier, and leave skin soft, smooth, and radiant.",
+        "price": "2199.00",
+        "stock": 12,
+        "category": "beauty",
+        "image": "products/photo_2026-07-12_11.32.22.jpeg",
+        "is_available": true,
+        "created_at": "2026-07-12T06:10:15.014Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 23,
+    "fields": {
+        "name": "Apple AirPods Max (Sky Blue)",
+        "brand": "Apple",
+        "description": "Premium over-ear wireless headphones featuring Active Noise Cancellation, Personalized Spatial Audio, Adaptive EQ, and up to 20 hours of immersive listening with exceptional comfort.",
+        "price": "59900.00",
+        "stock": 10,
+        "category": "electronics",
+        "image": "products/photo_2026-07-12_11.32.03.jpeg",
+        "is_available": true,
+        "created_at": "2026-07-12T06:17:48.281Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 24,
+    "fields": {
+        "name": "Glossier Perfecting Skin Tint Foundation",
+        "brand": "Glossier",
+        "description": "A lightweight, buildable skin tint foundation that delivers a natural, radiant finish while evening out skin tone. Perfect for daily wear with a breathable, comfortable formula.",
+        "price": "2499.00",
+        "stock": 10,
+        "category": "beauty",
+        "image": "products/photo_2026-07-12_11.32.39.jpeg",
+        "is_available": true,
+        "created_at": "2026-07-12T06:19:41.871Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 25,
+    "fields": {
+        "name": "Matcha Oat Latte",
+        "brand": "OATSIDE",
+        "description": "A smooth and creamy plant-based oat latte blended with premium matcha. Made with 3750mg of matcha and enriched with 20mg of L-Theanine for a balanced, refreshing, and energizing drink. Perfect served chilled as a dairy-free beverage.",
+        "price": "249.00",
+        "stock": 14,
+        "category": "grocery",
+        "image": "products/image_mNxclnX.png",
+        "is_available": true,
+        "created_at": "2026-07-12T06:42:54.286Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 26,
+    "fields": {
+        "name": "Cherry Soda",
+        "brand": "BLOOM",
+        "description": "Description: Refreshing cherry-flavored prebiotic soda with a crisp, fruity taste. Crafted with premium ingredients and packaged in a sleek matte white aluminum can for a modern, premium look.",
+        "price": "149.00",
+        "stock": 10,
+        "category": "grocery",
+        "image": "products/image_zhhRObo.png",
+        "is_available": true,
+        "created_at": "2026-07-12T06:58:06.313Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 27,
+    "fields": {
+        "name": "MELTO Smart Aroma Lamp",
+        "brand": "MELTO",
+        "description": "A premium smart aroma lamp designed with a minimalist aesthetic. Features adjustable lighting, multiple fan/intensity modes, one-touch controls, quiet operation, and a modern matte finish. Perfect for bedrooms, offices, living rooms, and creating a relaxing atmosphere.",
+        "price": "999.00",
+        "stock": 13,
+        "category": "home",
+        "image": "products/2026-07-12_12.32.39.jpg",
+        "is_available": true,
+        "created_at": "2026-07-12T07:04:38.595Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 30,
+    "fields": {
+        "name": "ATHLEX",
+        "brand": "Varsity 23 Oversized Jersey",
+        "description": "Premium oversized varsity jersey crafted from lightweight, breathable performance fabric. Features bold number graphics, ribbed V-neck collar, relaxed fit, and moisture-wicking technology for all-day comfort. Perfect for casual streetwear, sports, and everyday styling.",
+        "price": "1999.00",
+        "stock": 15,
+        "category": "fashion",
+        "image": "products/image_sYc8MMl.png",
+        "is_available": true,
+        "created_at": "2026-07-12T07:33:24.369Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 31,
+    "fields": {
+        "name": "Good Smell Eau de Parfum",
+        "brand": "LAUDE",
+        "description": "A premium long-lasting eau de parfum crafted for men who appreciate elegance and confidence. Featuring fresh citrus top notes, a woody heart, and warm amber-musky base notes, this fragrance delivers a sophisticated scent that lasts all day.",
+        "price": "3499.00",
+        "stock": 10,
+        "category": "beauty",
+        "image": "products/2026-07-12_13.09.30.jpg",
+        "is_available": true,
+        "created_at": "2026-07-12T07:41:19.744Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 32,
+    "fields": {
+        "name": "Apple MacBook Air M5",
+        "brand": "Apple",
+        "description": "The MacBook Air M5 is Apple’s ultra-thin and lightweight laptop designed for students, professionals, and everyday users. It features the Apple M5 chip, offering faster performance, improved AI capabilities, excellent battery life, and silent fanless operation. It is available in 13-inch and 15-inch sizes.",
+        "price": "120000.00",
+        "stock": 10,
+        "category": "electronics",
+        "image": "products/2026-07-14_19.45.59.jpg",
+        "is_available": true,
+        "created_at": "2026-07-14T14:19:12.015Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 31,
+    "fields": {
+        "customer": 4,
+        "delivery_address": "Akshai, 9846988251, Akshai 's Home Trivandrum kerala, india, Trivandrum, Pincode: 695541, Payment: Cash on Delivery",
+        "total_amount": "10497.00",
+        "status": "pending",
+        "return_status": "not_available",
+        "created_at": "2026-06-28T07:59:36.943Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 32,
+    "fields": {
+        "customer": 4,
+        "delivery_address": "subha, 8129081163, Ajin\"s Home Triavndrum, Trivandrum,Kerla, Pincode: 895542, Payment: Card",
+        "total_amount": "3499.00",
+        "status": "pending",
+        "return_status": "not_available",
+        "created_at": "2026-06-28T08:05:23.427Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 33,
+    "fields": {
+        "customer": 7,
+        "delivery_address": "devnand, 9846988251, dev Home , Anad Trivandrum Kerala , india, Trivandrum, Pincode: 695541, Payment: Card",
+        "total_amount": "3299.00",
+        "status": "pending",
+        "return_status": "not_available",
+        "created_at": "2026-06-28T14:56:48.918Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 34,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Achu Vs, 9744094201, Achu \"Home Anad Trivandrum, Trivandrum, Pincode: 695541, Payment: Cash on Delivery",
+        "total_amount": "6598.00",
+        "status": "pending",
+        "return_status": "not_available",
+        "created_at": "2026-06-28T15:05:42.241Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 35,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Akshai , 9846988251, Ajin Nivas Parayam Vilakam Anad po, Triavndrum, Pincode: 695541, Payment: Cash on Delivery",
+        "total_amount": "27792.00",
+        "status": "pending",
+        "return_status": "not_available",
+        "created_at": "2026-06-29T07:25:33.001Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 36,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Akshaii, 9846988251, Akshai Home Trivandrum, Trivandrum, Pincode: 695541, Payment: Razorpay",
+        "total_amount": "10097.00",
+        "status": "pending",
+        "return_status": "not_available",
+        "created_at": "2026-06-29T07:50:59.077Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 37,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Akshai Krishna s s, 9846988251, Akshai Home Anad , Triavndrum, Pincode: 695541, Payment: Razorpay",
+        "total_amount": "3299.00",
+        "status": "pending",
+        "return_status": "not_available",
+        "created_at": "2026-06-29T08:11:35.328Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 38,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Akshai Krishna s s, 9846988251, Akshai india, Triavndrum, Pincode: 695541, Payment: Cash on Delivery",
+        "total_amount": "3499.00",
+        "status": "pending",
+        "return_status": "not_available",
+        "created_at": "2026-06-29T08:16:34.527Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 39,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Ummanan, 9846988251, ummana Nivas Anad , Triavndrum, Pincode: 695541, Payment: Razorpay",
+        "total_amount": "3499.00",
+        "status": "pending",
+        "return_status": "not_available",
+        "created_at": "2026-06-29T14:25:32.879Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 40,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Akshai Krishna s s, 8129081163, akshai\"home england , manchester, Pincode: 667788, Payment: Razorpay",
+        "total_amount": "10097.00",
+        "status": "pending",
+        "return_status": "not_available",
+        "created_at": "2026-07-02T17:33:43.878Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 41,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "devnanand, 8129081163, dev home trivandrum, Triavndrum, Pincode: 897754, Payment: Razorpay",
+        "total_amount": "3499.00",
+        "status": "pending",
+        "return_status": "not_available",
+        "created_at": "2026-07-04T08:01:33.331Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 42,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Ajin Krishna, 8129081163, Ajin Home Anad po. Ndeumagadu, Trivandrum, Triavndrum, Pincode: 697752, Payment: Razorpay",
+        "total_amount": "152299.00",
+        "status": "pending",
+        "return_status": "approved",
+        "created_at": "2026-07-05T18:33:32.523Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 43,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Awan, 9846988251, Aswan Home Trivandrum , Kerala, Triavndrum, Pincode: 695541, Payment: Razorpay",
+        "total_amount": "149000.00",
+        "status": "delivered",
+        "return_status": "approved",
+        "created_at": "2026-07-06T08:40:23.142Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 44,
+    "fields": {
+        "customer": 10,
+        "delivery_address": "Rahulsharma, 9876543210, 45 MG Road, Kochi, Kerala 682001, Kochi , Pincode: 678853, Payment: Razorpay",
+        "total_amount": "3499.00",
+        "status": "delivered",
+        "return_status": "rejected",
+        "created_at": "2026-07-09T06:28:52.619Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 45,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Ajas, 9876543210, Ajas Home Trivandrum , kerala, Triavndrum, Pincode: 678853, Payment: Razorpay",
+        "total_amount": "249.00",
+        "status": "pending",
+        "return_status": "none",
+        "created_at": "2026-07-12T07:18:35.558Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 46,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Ajas, 9876543210, Ajas Home Trivandrum , kerala, Triavndrum, Pincode: 678853, Payment: Razorpay",
+        "total_amount": "3499.00",
+        "status": "pending",
+        "return_status": "none",
+        "created_at": "2026-07-12T07:18:35.570Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 47,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Ajas, 9876543210, Ajas Home Trivandrum , kerala, Triavndrum, Pincode: 678853, Payment: Razorpay",
+        "total_amount": "149000.00",
+        "status": "pending",
+        "return_status": "none",
+        "created_at": "2026-07-12T07:18:35.579Z"
+    }
+},
+{
+    "model": "orders.order",
+    "pk": 48,
+    "fields": {
+        "customer": 2,
+        "delivery_address": "Ajas, 9876543210, Ajas Home Trivandrum , kerala, Triavndrum, Pincode: 678853, Payment: Razorpay",
+        "total_amount": "3299.00",
+        "status": "delivered",
+        "return_status": "approved",
+        "created_at": "2026-07-12T07:18:35.587Z"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 51,
+    "fields": {
+        "order": 31,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 52,
+    "fields": {
+        "order": 31,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 53,
+    "fields": {
+        "order": 31,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 54,
+    "fields": {
+        "order": 32,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 55,
+    "fields": {
+        "order": 33,
+        "product": 17,
+        "quantity": 1,
+        "price": "3299.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 56,
+    "fields": {
+        "order": 34,
+        "product": 17,
+        "quantity": 1,
+        "price": "3299.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 57,
+    "fields": {
+        "order": 34,
+        "product": 17,
+        "quantity": 1,
+        "price": "3299.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 58,
+    "fields": {
+        "order": 35,
+        "product": 17,
+        "quantity": 1,
+        "price": "3299.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 59,
+    "fields": {
+        "order": 35,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 60,
+    "fields": {
+        "order": 35,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 61,
+    "fields": {
+        "order": 35,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 62,
+    "fields": {
+        "order": 35,
+        "product": 16,
+        "quantity": 3,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 63,
+    "fields": {
+        "order": 35,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 64,
+    "fields": {
+        "order": 36,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 65,
+    "fields": {
+        "order": 36,
+        "product": 17,
+        "quantity": 1,
+        "price": "3299.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 66,
+    "fields": {
+        "order": 36,
+        "product": 17,
+        "quantity": 1,
+        "price": "3299.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 67,
+    "fields": {
+        "order": 37,
+        "product": 17,
+        "quantity": 1,
+        "price": "3299.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 68,
+    "fields": {
+        "order": 38,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 69,
+    "fields": {
+        "order": 39,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 70,
+    "fields": {
+        "order": 40,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 71,
+    "fields": {
+        "order": 40,
+        "product": 17,
+        "quantity": 1,
+        "price": "3299.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 72,
+    "fields": {
+        "order": 40,
+        "product": 17,
+        "quantity": 1,
+        "price": "3299.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 73,
+    "fields": {
+        "order": 41,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 74,
+    "fields": {
+        "order": 42,
+        "product": 19,
+        "quantity": 1,
+        "price": "149000.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 75,
+    "fields": {
+        "order": 42,
+        "product": 17,
+        "quantity": 1,
+        "price": "3299.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 76,
+    "fields": {
+        "order": 43,
+        "product": 19,
+        "quantity": 1,
+        "price": "149000.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 77,
+    "fields": {
+        "order": 44,
+        "product": 16,
+        "quantity": 1,
+        "price": "3499.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 78,
+    "fields": {
+        "order": 45,
+        "product": 25,
+        "quantity": 1,
+        "price": "249.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 80,
+    "fields": {
+        "order": 47,
+        "product": 19,
+        "quantity": 1,
+        "price": "149000.00"
+    }
+},
+{
+    "model": "orders.orderitem",
+    "pk": 81,
+    "fields": {
+        "order": 48,
+        "product": 17,
+        "quantity": 1,
+        "price": "3299.00"
+    }
+},
+{
+    "model": "delivery.delivery",
+    "pk": 6,
+    "fields": {
+        "order": 31,
+        "driver": 3,
+        "status": "out_for_delivery",
+        "current_location": "Anad",
+        "delivered_at": "2026-06-09T06:00:00Z",
+        "created_at": "2026-06-28T15:07:44.343Z"
+    }
+},
+{
+    "model": "delivery.delivery",
+    "pk": 7,
+    "fields": {
+        "order": 34,
+        "driver": 6,
+        "status": "delivered",
+        "current_location": "Nedumagad",
+        "delivered_at": "2026-06-08T15:08:46Z",
+        "created_at": "2026-06-28T15:08:49.390Z"
+    }
+},
+{
+    "model": "delivery.delivery",
+    "pk": 8,
+    "fields": {
+        "order": 35,
+        "driver": 3,
+        "status": "delivered",
+        "current_location": "Nedumagad",
+        "delivered_at": "2026-06-29T08:19:03Z",
+        "created_at": "2026-06-29T08:19:04.457Z"
+    }
+},
+{
+    "model": "delivery.delivery",
+    "pk": 9,
+    "fields": {
+        "order": 42,
+        "driver": 3,
+        "status": "delivered",
+        "current_location": "Anad",
+        "delivered_at": "2026-07-04T18:34:57Z",
+        "created_at": "2026-07-05T18:34:59.912Z"
+    }
+},
+{
+    "model": "delivery.delivery",
+    "pk": 10,
+    "fields": {
+        "order": 43,
+        "driver": 3,
+        "status": "delivered",
+        "current_location": "Trivandrum , vattapara",
+        "delivered_at": "2026-07-06T08:51:25Z",
+        "created_at": "2026-07-06T08:51:27.507Z"
+    }
+},
+{
+    "model": "delivery.delivery",
+    "pk": 11,
+    "fields": {
+        "order": 48,
+        "driver": 3,
+        "status": "delivered",
+        "current_location": "Nedeumagadu",
+        "delivered_at": "2026-07-06T07:51:28Z",
+        "created_at": "2026-07-12T07:51:30.538Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 3,
+    "fields": {
+        "razorpay_order_id": "23",
+        "razorpay_payment_id": "23",
+        "razorpay_signature": "",
+        "amount": "3499.00",
+        "status": "success",
+        "created_at": "2026-06-28T00:00:00Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 4,
+    "fields": {
+        "razorpay_order_id": "order_T7MpH7T8q8rdN1",
+        "razorpay_payment_id": null,
+        "razorpay_signature": null,
+        "amount": "3698.00",
+        "status": "created",
+        "created_at": "2026-06-29T07:37:58.497Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 5,
+    "fields": {
+        "razorpay_order_id": "order_T7MsI4H6D4s1hd",
+        "razorpay_payment_id": null,
+        "razorpay_signature": null,
+        "amount": "3698.00",
+        "status": "created",
+        "created_at": "2026-06-29T07:40:49.809Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 6,
+    "fields": {
+        "razorpay_order_id": "order_T7MvKYPYD588d1",
+        "razorpay_payment_id": null,
+        "razorpay_signature": null,
+        "amount": "3698.00",
+        "status": "created",
+        "created_at": "2026-06-29T07:43:42.477Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 7,
+    "fields": {
+        "razorpay_order_id": "order_T7N2Q5lfJWjA3i",
+        "razorpay_payment_id": "pay_T7N2eLEc29G47D",
+        "razorpay_signature": "981bce2221ddf2b6b0494ad5ae9615d6fb507f54ee8ad44b6b147779207097bc",
+        "amount": "3698.00",
+        "status": "success",
+        "created_at": "2026-06-29T07:50:25.153Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 8,
+    "fields": {
+        "razorpay_order_id": "order_T7NBrsn1cAfIP3",
+        "razorpay_payment_id": null,
+        "razorpay_signature": null,
+        "amount": "3498.00",
+        "status": "created",
+        "created_at": "2026-06-29T07:59:21.844Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 9,
+    "fields": {
+        "razorpay_order_id": "order_T7NFINlSvwoRvg",
+        "razorpay_payment_id": null,
+        "razorpay_signature": null,
+        "amount": "3498.00",
+        "status": "created",
+        "created_at": "2026-06-29T08:02:36.515Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 10,
+    "fields": {
+        "razorpay_order_id": "order_T7NMxfAIX6i9fi",
+        "razorpay_payment_id": "pay_T7NO5L9fuuuIeq",
+        "razorpay_signature": "6ed40b5ba92b90327910d30f6a737b1c37d9ac4cee5cfcd5c0a09736e93e8ec7",
+        "amount": "3498.00",
+        "status": "success",
+        "created_at": "2026-06-29T08:09:51.939Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 11,
+    "fields": {
+        "razorpay_order_id": "order_T7TlIwuIul26UU",
+        "razorpay_payment_id": "pay_T7TlStgqhsganS",
+        "razorpay_signature": "aea960fb69f293bd71a7972597b75aeb7a7690095f4a2d0dbd96990f68bafe5f",
+        "amount": "3698.00",
+        "status": "success",
+        "created_at": "2026-06-29T14:25:04.403Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 12,
+    "fields": {
+        "razorpay_order_id": "order_T8iZUIUwDpqgdd",
+        "razorpay_payment_id": "pay_T8iZe8UQvlsB2z",
+        "razorpay_signature": "70a93e6ba4d37d231a4d0f39688e6ae450c5738f3aa5e86c12654ef0467814a6",
+        "amount": "3698.00",
+        "status": "success",
+        "created_at": "2026-07-02T17:33:17.502Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 13,
+    "fields": {
+        "razorpay_order_id": "order_T9LrmTHdsFppEe",
+        "razorpay_payment_id": "pay_T9LsmAtkkjpE17",
+        "razorpay_signature": "5b3cb81a7a2205d907007ee86ea90b0bd07e19e5f1b903c4ec313910c20cff1a",
+        "amount": "3698.00",
+        "status": "success",
+        "created_at": "2026-07-04T07:59:39.332Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 14,
+    "fields": {
+        "razorpay_order_id": "order_T9vANbWqwNHNs6",
+        "razorpay_payment_id": "pay_T9vAe8m4ku84HC",
+        "razorpay_signature": "693951573bcda1f4ec448b015f41c1a810e84fdb0948b03b0e656f552139e5a3",
+        "amount": "149199.00",
+        "status": "success",
+        "created_at": "2026-07-05T18:31:32.422Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 15,
+    "fields": {
+        "razorpay_order_id": "order_TA9adFup1kLjKl",
+        "razorpay_payment_id": null,
+        "razorpay_signature": null,
+        "amount": "149199.00",
+        "status": "created",
+        "created_at": "2026-07-06T08:38:06.155Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 16,
+    "fields": {
+        "razorpay_order_id": "order_TA9cFupsb1E2CV",
+        "razorpay_payment_id": "pay_TA9ce1GJEF61py",
+        "razorpay_signature": "ebc049179192128f942fed4ff3bedf7c59412f588202bf436acf6e7bd94759ee",
+        "amount": "149199.00",
+        "status": "success",
+        "created_at": "2026-07-06T08:39:38.355Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 17,
+    "fields": {
+        "razorpay_order_id": "order_TBIxzYSF8vRhYI",
+        "razorpay_payment_id": "pay_TBIyCatxuAkcUo",
+        "razorpay_signature": "5b78e7e87556e1ccd198a96d854584e760f1a3ce5ae4f1f5378be172956037af",
+        "amount": "3698.00",
+        "status": "success",
+        "created_at": "2026-07-09T06:27:27.601Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 18,
+    "fields": {
+        "razorpay_order_id": "order_TBNk6dF7zWKaD0",
+        "razorpay_payment_id": null,
+        "razorpay_signature": null,
+        "amount": "149199.00",
+        "status": "created",
+        "created_at": "2026-07-09T11:07:47.111Z"
+    }
+},
+{
+    "model": "payments.payment",
+    "pk": 19,
+    "fields": {
+        "razorpay_order_id": "order_TCVQv9pNgzaMng",
+        "razorpay_payment_id": "pay_TCVR4Cr94AKXS8",
+        "razorpay_signature": "25ac2fdfbbe44623cd2bf5b0d476be07da6fafc979760c954bbf4ce8e34c0add",
+        "amount": "156246.00",
+        "status": "success",
+        "created_at": "2026-07-12T07:18:10.359Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 1,
+    "fields": {
+        "user": 4,
+        "title": "Order Placed",
+        "message": "Your order #26 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-06-24T13:48:46.645Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 2,
+    "fields": {
+        "user": 4,
+        "title": "Order Placed",
+        "message": "Your order #27 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-06-27T17:14:59.339Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 3,
+    "fields": {
+        "user": 4,
+        "title": "Order Placed",
+        "message": "Your order #28 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-06-27T17:28:37.660Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 4,
+    "fields": {
+        "user": 4,
+        "title": "Order Placed",
+        "message": "Your order #29 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-06-28T06:35:33.316Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 5,
+    "fields": {
+        "user": 4,
+        "title": "Order Placed",
+        "message": "Your order #30 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-06-28T07:30:20.390Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 6,
+    "fields": {
+        "user": 4,
+        "title": "Order Placed",
+        "message": "Your order #31 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-06-28T07:59:36.951Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 7,
+    "fields": {
+        "user": 4,
+        "title": "Order Placed",
+        "message": "Your order #32 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-06-28T08:05:23.431Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 8,
+    "fields": {
+        "user": 2,
+        "title": "Order Placed",
+        "message": "Your order #38 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-06-29T08:16:34.531Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 9,
+    "fields": {
+        "user": 2,
+        "title": "Order Placed",
+        "message": "Your order #39 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-06-29T14:25:32.885Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 10,
+    "fields": {
+        "user": 2,
+        "title": "Order Placed",
+        "message": "Your order #40 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-07-02T17:33:43.886Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 11,
+    "fields": {
+        "user": 2,
+        "title": "Order Placed",
+        "message": "Your order #41 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-07-04T08:01:33.337Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 12,
+    "fields": {
+        "user": 2,
+        "title": "Order Placed",
+        "message": "Your order #42 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-07-05T18:33:32.527Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 13,
+    "fields": {
+        "user": 2,
+        "title": "Order Placed",
+        "message": "Your order #43 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-07-06T08:40:23.145Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 14,
+    "fields": {
+        "user": 2,
+        "title": "Return Requested",
+        "message": "Return request submitted for Order #43",
+        "is_read": false,
+        "created_at": "2026-07-06T09:18:12.393Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 15,
+    "fields": {
+        "user": 10,
+        "title": "Order Placed",
+        "message": "Your order #44 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-07-09T06:28:52.622Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 16,
+    "fields": {
+        "user": 10,
+        "title": "Return Requested",
+        "message": "Return request submitted for Order #44",
+        "is_read": false,
+        "created_at": "2026-07-09T06:30:01.817Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 17,
+    "fields": {
+        "user": 2,
+        "title": "Order Placed",
+        "message": "Your order #45 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-07-12T07:18:35.562Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 18,
+    "fields": {
+        "user": 2,
+        "title": "Order Placed",
+        "message": "Your order #46 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-07-12T07:18:35.572Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 19,
+    "fields": {
+        "user": 2,
+        "title": "Order Placed",
+        "message": "Your order #47 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-07-12T07:18:35.580Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 20,
+    "fields": {
+        "user": 2,
+        "title": "Order Placed",
+        "message": "Your order #48 has been placed successfully.",
+        "is_read": false,
+        "created_at": "2026-07-12T07:18:35.588Z"
+    }
+},
+{
+    "model": "notifications.notification",
+    "pk": 21,
+    "fields": {
+        "user": 2,
+        "title": "Return Requested",
+        "message": "Return request submitted for Order #48",
+        "is_read": false,
+        "created_at": "2026-07-12T07:19:42.967Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2026-05-14T18:40:51.167Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "1",
+        "object_repr": "milk",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2026-05-14T18:56:30.496Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "accounts",
+            "userprofile"
+        ],
+        "object_id": "1",
+        "object_repr": "Achu",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2026-05-15T09:04:00.308Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "2",
+        "object_repr": "iphone 17 pro",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2026-05-17T09:56:12.997Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "accounts",
+            "userprofile"
+        ],
+        "object_id": "2",
+        "object_repr": "Akshai",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2026-05-17T10:01:59.514Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "1",
+        "object_repr": "Apple MacBook M5 x 10",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2026-05-17T10:02:14.168Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "1",
+        "object_repr": "Order #1 - Achu",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2026-05-17T10:04:34.468Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "AkshaiKrishna",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2026-05-17T10:06:42.676Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "2",
+        "object_repr": "Order #2 - Akshai",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2026-05-17T10:07:49.156Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "2",
+        "object_repr": "iphone 17 pro x 1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2026-05-17T14:41:09.099Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "3",
+        "object_repr": "Apple MacBook M5",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2026-05-17T14:41:22.472Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "4",
+        "object_repr": "Apple MacBook M5",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2026-05-19T18:24:50.110Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "accounts",
+            "userprofile"
+        ],
+        "object_id": "3",
+        "object_repr": "varun Prabhakar",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2026-05-20T09:54:15.087Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "6",
+        "object_repr": "Boat Airpod",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2026-05-20T10:05:16.631Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "2",
+        "object_repr": "iphone 17 pro",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2026-05-20T10:05:22.440Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "5",
+        "object_repr": "Apple MacBook M5",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2026-05-20T10:05:27.917Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "6",
+        "object_repr": "Boat Airpod",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2026-05-20T10:07:57.247Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "2",
+        "object_repr": "Order #2 - Akshai",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2026-05-20T10:08:03.090Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "1",
+        "object_repr": "Order #1 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2026-05-20T14:53:17.623Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "3",
+        "object_repr": "Order #3 - Akshai",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2026-05-20T14:53:54.652Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "3",
+        "object_repr": "iPhone 17 Pro x 1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2026-05-20T14:55:05.939Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "3",
+        "object_repr": "Delivery for Order #3",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2026-05-20T15:21:29.464Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "8",
+        "object_repr": "Apple",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2026-06-06T16:20:47.317Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "4",
+        "object_repr": "Akshaii",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"password\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2026-06-08T07:24:25.764Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "8",
+        "object_repr": "Apple",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2026-06-08T07:24:30.988Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "9",
+        "object_repr": "Prestige Electric Kettle",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2026-06-08T08:31:59.780Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "productimage"
+        ],
+        "object_id": "1",
+        "object_repr": "Hoodie",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2026-06-08T08:34:43.132Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "14",
+        "object_repr": "Hoodie",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2026-06-08T08:34:53.021Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "13",
+        "object_repr": "Hoodie",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2026-06-08T08:37:01.393Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "13",
+        "object_repr": "Hoodie",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2026-06-08T08:38:07.923Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "13",
+        "object_repr": "Hoodie",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2026-06-08T08:38:13.780Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "12",
+        "object_repr": "Adidas Casual Sneakers",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2026-06-08T08:38:19.654Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "10",
+        "object_repr": "Sony WH-1000XM5 Headphones",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2026-06-08T08:41:48.204Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "15",
+        "object_repr": "Shadow Oversized Hoodie",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2026-06-08T08:43:09.443Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "15",
+        "object_repr": "Shadow Oversized Hoodie",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2026-06-08T08:43:37.116Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "15",
+        "object_repr": "Shadow Oversized Hoodie",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2026-06-08T08:44:44.737Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "16",
+        "object_repr": "Shadow Oversized Hoodie",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2026-06-08T16:06:17.825Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "17",
+        "object_repr": "Addidas Low Dunk",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2026-06-08T16:07:44.748Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "11",
+        "object_repr": "Lakme Face Cream",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2026-06-08T16:08:00.129Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "7",
+        "object_repr": "iPhone 17 Pro",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2026-06-08T16:10:06.483Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "3",
+        "object_repr": "Order #3 - Akshai",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2026-06-08T16:10:10.941Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "4",
+        "object_repr": "Order #4 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2026-06-08T16:10:16.139Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "5",
+        "object_repr": "Order #5 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2026-06-08T16:10:22.025Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "6",
+        "object_repr": "Order #6 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2026-06-08T16:10:25.642Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "7",
+        "object_repr": "Order #7 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2026-06-08T16:10:29.462Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "8",
+        "object_repr": "Order #8 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2026-06-08T16:10:35.892Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "9",
+        "object_repr": "Order #9 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2026-06-08T16:10:41.080Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "10",
+        "object_repr": "Order #10 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2026-06-08T16:10:44.516Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "11",
+        "object_repr": "Order #11 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2026-06-08T16:10:48.808Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "12",
+        "object_repr": "Order #12 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2026-06-08T16:10:52.595Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "13",
+        "object_repr": "Order #13 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2026-06-08T16:10:56.038Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "14",
+        "object_repr": "Order #14 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2026-06-09T13:09:44.362Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "accounts",
+            "userprofile"
+        ],
+        "object_id": "1",
+        "object_repr": "Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2026-06-09T13:10:37.066Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "accounts",
+            "userprofile"
+        ],
+        "object_id": "4",
+        "object_repr": "Achu",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2026-06-09T17:01:06.794Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "AkshaiKrishna",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2026-06-09T17:04:40.733Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "5",
+        "object_repr": "akshaikrishna",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2026-06-09T17:09:51.214Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "6",
+        "object_repr": "achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2026-06-09T17:41:59.186Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "7",
+        "object_repr": "sachu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2026-06-09T17:42:10.442Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "3",
+        "object_repr": "Akshai",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2026-06-09T18:04:03.219Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "cart",
+            "cartitem"
+        ],
+        "object_id": "37",
+        "object_repr": "Achu - Addidas Low Dunk x 6",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+        "action_time": "2026-06-09T18:06:11.519Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "17",
+        "object_repr": "Order #17 - Achu",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+        "action_time": "2026-06-09T18:06:18.147Z",
+        "user": [
+            "Akshaii"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "24",
+        "object_repr": "Shadow Oversized Hoodie x 6",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+        "action_time": "2026-06-24T08:28:26.854Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "payments",
+            "payment"
+        ],
+        "object_id": "2",
+        "object_repr": "Payment for Order #21",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+        "action_time": "2026-06-27T17:18:06.024Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "5",
+        "object_repr": "Delivery for Order #27",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "48",
+        "object_repr": "Addidas Low Dunk x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "47",
+        "object_repr": "Addidas Low Dunk x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "46",
+        "object_repr": "Addidas Low Dunk x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "45",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "44",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "43",
+        "object_repr": "Addidas Low Dunk x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "42",
+        "object_repr": "Addidas Low Dunk x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "41",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "40",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "39",
+        "object_repr": "Addidas Low Dunk x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "38",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "37",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "36",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "35",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "34",
+        "object_repr": "Addidas Low Dunk x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "33",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "32",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "31",
+        "object_repr": "Addidas Low Dunk x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "30",
+        "object_repr": "Addidas Low Dunk x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "29",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "28",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 89,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "27",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 90,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "26",
+        "object_repr": "Shadow Oversized Hoodie x 1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 91,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "25",
+        "object_repr": "Addidas Low Dunk x 6",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 92,
+    "fields": {
+        "action_time": "2026-06-28T07:28:14.435Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "orderitem"
+        ],
+        "object_id": "24",
+        "object_repr": "Shadow Oversized Hoodie x 6",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 93,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "30",
+        "object_repr": "Order #30 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 94,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "29",
+        "object_repr": "Order #29 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 95,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "28",
+        "object_repr": "Order #28 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 96,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "27",
+        "object_repr": "Order #27 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 97,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "26",
+        "object_repr": "Order #26 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 98,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "25",
+        "object_repr": "Order #25 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 99,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "24",
+        "object_repr": "Order #24 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 100,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "23",
+        "object_repr": "Order #23 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 101,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "22",
+        "object_repr": "Order #22 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 102,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "21",
+        "object_repr": "Order #21 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 103,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "20",
+        "object_repr": "Order #20 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 104,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "19",
+        "object_repr": "Order #19 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 105,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "18",
+        "object_repr": "Order #18 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 106,
+    "fields": {
+        "action_time": "2026-06-28T07:38:00.833Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "17",
+        "object_repr": "Order #17 - Achu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 107,
+    "fields": {
+        "action_time": "2026-06-28T15:07:44.344Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "6",
+        "object_repr": "Delivery for Order #31",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 108,
+    "fields": {
+        "action_time": "2026-06-28T15:08:49.392Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "7",
+        "object_repr": "Delivery for Order #34",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 109,
+    "fields": {
+        "action_time": "2026-06-28T15:45:38.477Z",
+        "user": [
+            "akshai"
+        ],
+        "content_type": [
+            "payments",
+            "payment"
+        ],
+        "object_id": "3",
+        "object_repr": "Payment for Order #34",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 110,
+    "fields": {
+        "action_time": "2026-06-29T08:19:04.458Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "8",
+        "object_repr": "Delivery for Order #35",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 111,
+    "fields": {
+        "action_time": "2026-07-01T06:47:19.378Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "17",
+        "object_repr": "Addidas Low Dunk",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 112,
+    "fields": {
+        "action_time": "2026-07-01T06:50:32.311Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "17",
+        "object_repr": "Nike Shox TL",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Brand\", \"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 113,
+    "fields": {
+        "action_time": "2026-07-05T16:49:16.101Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "18",
+        "object_repr": "iPhone 17 Pro Max",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 114,
+    "fields": {
+        "action_time": "2026-07-05T17:06:18.287Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "18",
+        "object_repr": "iPhone 17 Pro Max",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 115,
+    "fields": {
+        "action_time": "2026-07-05T17:08:49.664Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "18",
+        "object_repr": "iPhone 17 Pro Max",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 116,
+    "fields": {
+        "action_time": "2026-07-05T17:09:53.252Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "19",
+        "object_repr": "Iphone 17 Pro Max",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 117,
+    "fields": {
+        "action_time": "2026-07-05T18:34:59.913Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "9",
+        "object_repr": "Delivery for Order #42",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 118,
+    "fields": {
+        "action_time": "2026-07-06T08:24:58.166Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "9",
+        "object_repr": "Delivery for Order #42",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 119,
+    "fields": {
+        "action_time": "2026-07-06T08:36:16.394Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "42",
+        "object_repr": "Order #42 - Akshaii",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Return status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 120,
+    "fields": {
+        "action_time": "2026-07-06T08:51:27.508Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "10",
+        "object_repr": "Delivery for Order #43",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 121,
+    "fields": {
+        "action_time": "2026-07-06T08:59:16.451Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "10",
+        "object_repr": "Delivery for Order #43",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 122,
+    "fields": {
+        "action_time": "2026-07-06T09:03:50.967Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "10",
+        "object_repr": "Delivery for Order #43",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 123,
+    "fields": {
+        "action_time": "2026-07-06T09:17:40.042Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "10",
+        "object_repr": "Delivery for Order #43",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Driver\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 124,
+    "fields": {
+        "action_time": "2026-07-06T11:00:45.993Z",
+        "user": [
+            "Akshai"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "43",
+        "object_repr": "Order #43 - Akshaii",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Return status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 125,
+    "fields": {
+        "action_time": "2026-07-09T06:29:46.325Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "44",
+        "object_repr": "Order #44 - Rahulsharma",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 126,
+    "fields": {
+        "action_time": "2026-07-09T06:30:13.979Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "44",
+        "object_repr": "Order #44 - Rahulsharma",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Return status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 127,
+    "fields": {
+        "action_time": "2026-07-12T06:06:57.258Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "20",
+        "object_repr": "Lumira Wellness Hydrating Face Serum",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 128,
+    "fields": {
+        "action_time": "2026-07-12T06:10:15.015Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "21",
+        "object_repr": "Innisfree Green Tea Seed Intensive Hydrating Serum",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 129,
+    "fields": {
+        "action_time": "2026-07-12T06:13:06.796Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "22",
+        "object_repr": "Glossier Perfecting Skin Tint Foundation",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 130,
+    "fields": {
+        "action_time": "2026-07-12T06:17:48.282Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "23",
+        "object_repr": "Apple AirPods Max (Sky Blue)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 131,
+    "fields": {
+        "action_time": "2026-07-12T06:19:41.872Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "24",
+        "object_repr": "Glossier Perfecting Skin Tint Foundation",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 132,
+    "fields": {
+        "action_time": "2026-07-12T06:20:01.193Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "22",
+        "object_repr": "Glossier Perfecting Skin Tint Foundation",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 133,
+    "fields": {
+        "action_time": "2026-07-12T06:42:54.287Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "25",
+        "object_repr": "Matcha Oat Latte",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 134,
+    "fields": {
+        "action_time": "2026-07-12T06:58:06.314Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "26",
+        "object_repr": "Cherry Soda",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 135,
+    "fields": {
+        "action_time": "2026-07-12T07:04:38.596Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "27",
+        "object_repr": "MELTO Smart Aroma Lamp",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 136,
+    "fields": {
+        "action_time": "2026-07-12T07:12:13.553Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "28",
+        "object_repr": "Oversized Abstract Knit Sweater",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 137,
+    "fields": {
+        "action_time": "2026-07-12T07:14:01.044Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "29",
+        "object_repr": "Classic Wool Overcoat",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 138,
+    "fields": {
+        "action_time": "2026-07-12T07:19:31.143Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "48",
+        "object_repr": "Order #48 - Akshaii",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 139,
+    "fields": {
+        "action_time": "2026-07-12T07:19:54.432Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "orders",
+            "order"
+        ],
+        "object_id": "48",
+        "object_repr": "Order #48 - Akshaii",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Return status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 140,
+    "fields": {
+        "action_time": "2026-07-12T07:33:24.371Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "30",
+        "object_repr": "ATHLEX",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 141,
+    "fields": {
+        "action_time": "2026-07-12T07:41:19.745Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "31",
+        "object_repr": "Good Smell Eau de Parfum",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 142,
+    "fields": {
+        "action_time": "2026-07-12T07:51:30.539Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "delivery",
+            "delivery"
+        ],
+        "object_id": "11",
+        "object_repr": "Delivery for Order #48",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 143,
+    "fields": {
+        "action_time": "2026-07-14T07:55:55.350Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "28",
+        "object_repr": "Oversized Abstract Knit Sweater",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 144,
+    "fields": {
+        "action_time": "2026-07-14T14:19:12.015Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "32",
+        "object_repr": "Apple MacBook Air M5",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 145,
+    "fields": {
+        "action_time": "2026-07-14T14:19:57.776Z",
+        "user": [
+            "akshai17"
+        ],
+        "content_type": [
+            "products",
+            "product"
+        ],
+        "object_id": "29",
+        "object_repr": "Classic Wool Overcoat",
+        "action_flag": 3,
+        "change_message": ""
+    }
+}
+]
