@@ -1,1070 +1,5 @@
 [
 {
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add log entry",
-        "content_type": [
-            "admin",
-            "logentry"
-        ],
-        "codename": "add_logentry"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change log entry",
-        "content_type": [
-            "admin",
-            "logentry"
-        ],
-        "codename": "change_logentry"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete log entry",
-        "content_type": [
-            "admin",
-            "logentry"
-        ],
-        "codename": "delete_logentry"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view log entry",
-        "content_type": [
-            "admin",
-            "logentry"
-        ],
-        "codename": "view_logentry"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add permission",
-        "content_type": [
-            "auth",
-            "permission"
-        ],
-        "codename": "add_permission"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change permission",
-        "content_type": [
-            "auth",
-            "permission"
-        ],
-        "codename": "change_permission"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete permission",
-        "content_type": [
-            "auth",
-            "permission"
-        ],
-        "codename": "delete_permission"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view permission",
-        "content_type": [
-            "auth",
-            "permission"
-        ],
-        "codename": "view_permission"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add group",
-        "content_type": [
-            "auth",
-            "group"
-        ],
-        "codename": "add_group"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change group",
-        "content_type": [
-            "auth",
-            "group"
-        ],
-        "codename": "change_group"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete group",
-        "content_type": [
-            "auth",
-            "group"
-        ],
-        "codename": "delete_group"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view group",
-        "content_type": [
-            "auth",
-            "group"
-        ],
-        "codename": "view_group"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add user",
-        "content_type": [
-            "auth",
-            "user"
-        ],
-        "codename": "add_user"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change user",
-        "content_type": [
-            "auth",
-            "user"
-        ],
-        "codename": "change_user"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete user",
-        "content_type": [
-            "auth",
-            "user"
-        ],
-        "codename": "delete_user"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view user",
-        "content_type": [
-            "auth",
-            "user"
-        ],
-        "codename": "view_user"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add content type",
-        "content_type": [
-            "contenttypes",
-            "contenttype"
-        ],
-        "codename": "add_contenttype"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change content type",
-        "content_type": [
-            "contenttypes",
-            "contenttype"
-        ],
-        "codename": "change_contenttype"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete content type",
-        "content_type": [
-            "contenttypes",
-            "contenttype"
-        ],
-        "codename": "delete_contenttype"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view content type",
-        "content_type": [
-            "contenttypes",
-            "contenttype"
-        ],
-        "codename": "view_contenttype"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add session",
-        "content_type": [
-            "sessions",
-            "session"
-        ],
-        "codename": "add_session"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change session",
-        "content_type": [
-            "sessions",
-            "session"
-        ],
-        "codename": "change_session"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete session",
-        "content_type": [
-            "sessions",
-            "session"
-        ],
-        "codename": "delete_session"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view session",
-        "content_type": [
-            "sessions",
-            "session"
-        ],
-        "codename": "view_session"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add user profile",
-        "content_type": [
-            "accounts",
-            "userprofile"
-        ],
-        "codename": "add_userprofile"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change user profile",
-        "content_type": [
-            "accounts",
-            "userprofile"
-        ],
-        "codename": "change_userprofile"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete user profile",
-        "content_type": [
-            "accounts",
-            "userprofile"
-        ],
-        "codename": "delete_userprofile"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view user profile",
-        "content_type": [
-            "accounts",
-            "userprofile"
-        ],
-        "codename": "view_userprofile"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add product",
-        "content_type": [
-            "products",
-            "product"
-        ],
-        "codename": "add_product"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change product",
-        "content_type": [
-            "products",
-            "product"
-        ],
-        "codename": "change_product"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete product",
-        "content_type": [
-            "products",
-            "product"
-        ],
-        "codename": "delete_product"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view product",
-        "content_type": [
-            "products",
-            "product"
-        ],
-        "codename": "view_product"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add order",
-        "content_type": [
-            "orders",
-            "order"
-        ],
-        "codename": "add_order"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change order",
-        "content_type": [
-            "orders",
-            "order"
-        ],
-        "codename": "change_order"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete order",
-        "content_type": [
-            "orders",
-            "order"
-        ],
-        "codename": "delete_order"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view order",
-        "content_type": [
-            "orders",
-            "order"
-        ],
-        "codename": "view_order"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add order item",
-        "content_type": [
-            "orders",
-            "orderitem"
-        ],
-        "codename": "add_orderitem"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change order item",
-        "content_type": [
-            "orders",
-            "orderitem"
-        ],
-        "codename": "change_orderitem"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete order item",
-        "content_type": [
-            "orders",
-            "orderitem"
-        ],
-        "codename": "delete_orderitem"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view order item",
-        "content_type": [
-            "orders",
-            "orderitem"
-        ],
-        "codename": "view_orderitem"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add delivery",
-        "content_type": [
-            "delivery",
-            "delivery"
-        ],
-        "codename": "add_delivery"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change delivery",
-        "content_type": [
-            "delivery",
-            "delivery"
-        ],
-        "codename": "change_delivery"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete delivery",
-        "content_type": [
-            "delivery",
-            "delivery"
-        ],
-        "codename": "delete_delivery"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view delivery",
-        "content_type": [
-            "delivery",
-            "delivery"
-        ],
-        "codename": "view_delivery"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add payment",
-        "content_type": [
-            "payments",
-            "payment"
-        ],
-        "codename": "add_payment"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change payment",
-        "content_type": [
-            "payments",
-            "payment"
-        ],
-        "codename": "change_payment"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete payment",
-        "content_type": [
-            "payments",
-            "payment"
-        ],
-        "codename": "delete_payment"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view payment",
-        "content_type": [
-            "payments",
-            "payment"
-        ],
-        "codename": "view_payment"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add cart item",
-        "content_type": [
-            "cart",
-            "cartitem"
-        ],
-        "codename": "add_cartitem"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change cart item",
-        "content_type": [
-            "cart",
-            "cartitem"
-        ],
-        "codename": "change_cartitem"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete cart item",
-        "content_type": [
-            "cart",
-            "cartitem"
-        ],
-        "codename": "delete_cartitem"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view cart item",
-        "content_type": [
-            "cart",
-            "cartitem"
-        ],
-        "codename": "view_cartitem"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add review",
-        "content_type": [
-            "reviews",
-            "review"
-        ],
-        "codename": "add_review"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change review",
-        "content_type": [
-            "reviews",
-            "review"
-        ],
-        "codename": "change_review"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete review",
-        "content_type": [
-            "reviews",
-            "review"
-        ],
-        "codename": "delete_review"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view review",
-        "content_type": [
-            "reviews",
-            "review"
-        ],
-        "codename": "view_review"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add notification",
-        "content_type": [
-            "notifications",
-            "notification"
-        ],
-        "codename": "add_notification"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change notification",
-        "content_type": [
-            "notifications",
-            "notification"
-        ],
-        "codename": "change_notification"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete notification",
-        "content_type": [
-            "notifications",
-            "notification"
-        ],
-        "codename": "delete_notification"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view notification",
-        "content_type": [
-            "notifications",
-            "notification"
-        ],
-        "codename": "view_notification"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can add product image",
-        "content_type": [
-            "products",
-            "productimage"
-        ],
-        "codename": "add_productimage"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can change product image",
-        "content_type": [
-            "products",
-            "productimage"
-        ],
-        "codename": "change_productimage"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can delete product image",
-        "content_type": [
-            "products",
-            "productimage"
-        ],
-        "codename": "delete_productimage"
-    }
-},
-{
-    "model": "auth.permission",
-    "fields": {
-        "name": "Can view product image",
-        "content_type": [
-            "products",
-            "productimage"
-        ],
-        "codename": "view_productimage"
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$eo0QFdj7u74ZcfueZdXu4X$qsONrH9L1eU/3/nZ159IilBm9F1FVNpL6VdEB4FORZY=",
-        "last_login": "2026-06-24T08:27:38.346Z",
-        "is_superuser": true,
-        "username": "akshai",
-        "first_name": "",
-        "last_name": "",
-        "email": "itsakshai17@gmail.com",
-        "is_staff": true,
-        "is_active": true,
-        "date_joined": "2026-05-14T18:38:45.866Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$n9Wb2Zfu3NuCadX5mtDTUa$T5hB6N6oOA1e+q0JbgjjzpH5eshcA3LPiswixRe6thI=",
-        "last_login": "2026-06-02T19:52:54.773Z",
-        "is_superuser": true,
-        "username": "Akshaii",
-        "first_name": "",
-        "last_name": "",
-        "email": "itsakshai17@gmail.com",
-        "is_staff": true,
-        "is_active": true,
-        "date_joined": "2026-06-02T19:52:25.064Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$DclaxzOEn99zPgab9pwGhK$xwTMd/16ewAdoFmTkpnhJ7Pjinw4va9fXjKAaquc+f0=",
-        "last_login": null,
-        "is_superuser": false,
-        "username": "achu",
-        "first_name": "",
-        "last_name": "",
-        "email": "akshaimadrid@gmail.com",
-        "is_staff": false,
-        "is_active": true,
-        "date_joined": "2026-06-10T12:41:54.865Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$IbuFgNwg4DsdHlRAQYSjq2$rbqVB6D2Slpnn+G4xMDzKB55C14etce1U0srniymiBg=",
-        "last_login": null,
-        "is_superuser": false,
-        "username": "achu12",
-        "first_name": "",
-        "last_name": "",
-        "email": "akshaimadrid@gmail.com",
-        "is_staff": false,
-        "is_active": true,
-        "date_joined": "2026-06-10T12:50:58.784Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$jLfL1whbTSofPnrS3Q0SD1$JWofe6Ezga85figCR3Oc4rmZYKQl2T71YdiUmpKpAIE=",
-        "last_login": null,
-        "is_superuser": false,
-        "username": "kroos",
-        "first_name": "",
-        "last_name": "",
-        "email": "kroos@gmail.com",
-        "is_staff": false,
-        "is_active": true,
-        "date_joined": "2026-06-14T14:18:37.036Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$riPVqSMbZ1ATWy6BxyDcDi$FrRcY6UWnqlXqX9XbwnS6W3P7EB6fTgCEdkVaE5uMvw=",
-        "last_login": null,
-        "is_superuser": false,
-        "username": "devnand",
-        "first_name": "",
-        "last_name": "",
-        "email": "dev@gmail.com",
-        "is_staff": false,
-        "is_active": true,
-        "date_joined": "2026-06-23T09:07:27.926Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$cCjGNCAbVaLzAnLhJsjYMW$TPauo0JdaAAvfEf95fEGxYoTgxTp36gMkn1MmpocEUg=",
-        "last_login": null,
-        "is_superuser": false,
-        "username": "subha",
-        "first_name": "",
-        "last_name": "",
-        "email": "subha@gmail.com",
-        "is_staff": false,
-        "is_active": true,
-        "date_joined": "2026-06-28T08:15:11.260Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$wSRoYzLpGRBOU2pBK40OTs$Kq4/6MwbVRZIw/7cGGIHywKW/+Qq1ck9w6RspTa4T5c=",
-        "last_login": "2026-06-29T07:35:01.474Z",
-        "is_superuser": true,
-        "username": "Akshai",
-        "first_name": "",
-        "last_name": "",
-        "email": "akshaiachu521@gmail.com",
-        "is_staff": true,
-        "is_active": true,
-        "date_joined": "2026-06-29T07:34:33.604Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$OowqLzu6ar8wMXet8uxDVj$NciCV83ah4dtcYfkLbguK/rR15oyL4X2vvaveQ0+t0c=",
-        "last_login": null,
-        "is_superuser": false,
-        "username": "testuser",
-        "first_name": "",
-        "last_name": "",
-        "email": "testuser@example.com",
-        "is_staff": false,
-        "is_active": true,
-        "date_joined": "2026-07-07T15:31:22.287Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$8S1CCpf2fubX7X6QjlA7gT$/5m5DlEEV0Fj8alWDRq7nviy6TTpmIShbLbgRHWhmak=",
-        "last_login": null,
-        "is_superuser": false,
-        "username": "testagent",
-        "first_name": "",
-        "last_name": "",
-        "email": "testagent@example.com",
-        "is_staff": false,
-        "is_active": true,
-        "date_joined": "2026-07-08T16:47:20.788Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$GhlBb1bg8JL9pabCGwrVnU$mrWq4/lmppZenYPOulKDYleyYf08SJwe8Zyzb5jOpD4=",
-        "last_login": "2026-07-17T07:47:26.446Z",
-        "is_superuser": true,
-        "username": "akshai17",
-        "first_name": "",
-        "last_name": "",
-        "email": "akshaiachu521@gmail.com",
-        "is_staff": true,
-        "is_active": true,
-        "date_joined": "2026-07-08T17:09:11.105Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$YkWqrYDjUg3x1OcZBU009X$4jeuQikFXX4DlhsmDpNFxwk27WGMQkjB4xtybySIJjM=",
-        "last_login": null,
-        "is_superuser": false,
-        "username": "Akshay",
-        "first_name": "",
-        "last_name": "",
-        "email": "itsakshai17@gmail.com",
-        "is_staff": false,
-        "is_active": true,
-        "date_joined": "2026-07-09T06:20:04.470Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "auth.user",
-    "fields": {
-        "password": "pbkdf2_sha256$1200000$BmSa7VTQuoOi8va70vj3Tx$Avpct0O/6pRkmOQY5m2NKdd4GmbVwUtkIJafeu5KYcc=",
-        "last_login": null,
-        "is_superuser": false,
-        "username": "Rahulsharma",
-        "first_name": "",
-        "last_name": "",
-        "email": "rahul@gmail.com",
-        "is_staff": false,
-        "is_active": true,
-        "date_joined": "2026-07-09T06:25:29.404Z",
-        "groups": [],
-        "user_permissions": []
-    }
-},
-{
-    "model": "accounts.userprofile",
-    "pk": 2,
-    "fields": {
-        "user": [
-            "Akshaii"
-        ],
-        "name": "Akshaii",
-        "email": "itsakshai17@gmail.com",
-        "phone": "9846988251",
-        "address": "Name: Akshaii\r\nAddress: Akshai\" s Home Triavndrum\r\nCity: Trivandrum\r\nState: Kerala\r\nPIN: 695001\r\nCountry: India\r\nPhone: 9846988251",
-        "profile_image": "profile_images/WhatsApp_Image_2026-06-21_at_12.36.47.jpeg",
-        "role": "admin",
-        "created_at": "2026-05-17T09:56:12.988Z"
-    }
-},
-{
-    "model": "accounts.userprofile",
-    "pk": 3,
-    "fields": {
-        "user": null,
-        "name": "varun Prabhakar",
-        "email": "varun.driver@gmail.com",
-        "phone": "9895123456",
-        "address": "Pattom Junction, Trivandrum, Kerala",
-        "profile_image": "",
-        "role": "driver",
-        "created_at": "2026-05-19T18:24:50.105Z"
-    }
-},
-{
-    "model": "accounts.userprofile",
-    "pk": 4,
-    "fields": {
-        "user": null,
-        "name": "Achu",
-        "email": "itsakshai17@gamil.com",
-        "phone": "9846988251",
-        "address": "ajin nivas parayam vilakam anad po nedumagad trivandrum",
-        "profile_image": "",
-        "role": "customer",
-        "created_at": "2026-06-09T13:10:37.062Z"
-    }
-},
-{
-    "model": "accounts.userprofile",
-    "pk": 5,
-    "fields": {
-        "user": [
-            "achu"
-        ],
-        "name": "achu",
-        "email": "akshaimadrid@gmail.com",
-        "phone": "9846988251",
-        "address": "Attipara village technopark campus plot no .1 thiruvanathapuram kerala",
-        "profile_image": "",
-        "role": "coustomer",
-        "created_at": "2026-06-10T12:41:55.826Z"
-    }
-},
-{
-    "model": "accounts.userprofile",
-    "pk": 6,
-    "fields": {
-        "user": [
-            "kroos"
-        ],
-        "name": "kroos",
-        "email": "kroos@gmail.com",
-        "phone": "9846988254",
-        "address": "Attipara village technopark campus plot no .1 thiruvanathapuram kerala",
-        "profile_image": "",
-        "role": "customer",
-        "created_at": "2026-06-14T14:18:38.208Z"
-    }
-},
-{
-    "model": "accounts.userprofile",
-    "pk": 7,
-    "fields": {
-        "user": [
-            "devnand"
-        ],
-        "name": "devnand",
-        "email": "dev@gmail.com",
-        "phone": "9995727263",
-        "address": "devhome",
-        "profile_image": "",
-        "role": "customer",
-        "created_at": "2026-06-23T09:07:28.011Z"
-    }
-},
-{
-    "model": "accounts.userprofile",
-    "pk": 8,
-    "fields": {
-        "user": [
-            "subha"
-        ],
-        "name": "subha",
-        "email": "subha@gmail.com",
-        "phone": "8129081163",
-        "address": "subh\"bhavan",
-        "profile_image": "",
-        "role": "customer",
-        "created_at": "2026-06-28T08:15:11.344Z"
-    }
-},
-{
-    "model": "accounts.userprofile",
-    "pk": 9,
-    "fields": {
-        "user": [
-            "testuser"
-        ],
-        "name": "testuser",
-        "email": "testuser@example.com",
-        "phone": "1234567890",
-        "address": "123 Test Street",
-        "profile_image": "",
-        "role": "customer",
-        "created_at": "2026-07-07T15:31:22.379Z"
-    }
-},
-{
-    "model": "accounts.userprofile",
-    "pk": 10,
-    "fields": {
-        "user": [
-            "Rahulsharma"
-        ],
-        "name": "Rahulsharma",
-        "email": "rahul@gmail.com",
-        "phone": "9876543210",
-        "address": "45 MG Road, Kochi, Kerala 682001",
-        "profile_image": "profile_images/2026-07-04_12.24.02.jpg",
-        "role": "customer",
-        "created_at": "2026-07-09T06:25:29.512Z"
-    }
-},
-{
     "model": "products.product",
     "pk": 16,
     "fields": {
@@ -1257,6 +192,146 @@
         "image": "products/2026-07-14_19.45.59.jpg",
         "is_available": true,
         "created_at": "2026-07-14T14:19:12.015Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "Akshaii"
+        ],
+        "name": "Akshaii",
+        "email": "itsakshai17@gmail.com",
+        "phone": "9846988251",
+        "address": "Name: Akshaii\r\nAddress: Akshai\" s Home Triavndrum\r\nCity: Trivandrum\r\nState: Kerala\r\nPIN: 695001\r\nCountry: India\r\nPhone: 9846988251",
+        "profile_image": "profile_images/WhatsApp_Image_2026-06-21_at_12.36.47.jpeg",
+        "role": "admin",
+        "created_at": "2026-05-17T09:56:12.988Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 3,
+    "fields": {
+        "user": null,
+        "name": "varun Prabhakar",
+        "email": "varun.driver@gmail.com",
+        "phone": "9895123456",
+        "address": "Pattom Junction, Trivandrum, Kerala",
+        "profile_image": "",
+        "role": "driver",
+        "created_at": "2026-05-19T18:24:50.105Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 4,
+    "fields": {
+        "user": null,
+        "name": "Achu",
+        "email": "itsakshai17@gamil.com",
+        "phone": "9846988251",
+        "address": "ajin nivas parayam vilakam anad po nedumagad trivandrum",
+        "profile_image": "",
+        "role": "customer",
+        "created_at": "2026-06-09T13:10:37.062Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 5,
+    "fields": {
+        "user": [
+            "achu"
+        ],
+        "name": "achu",
+        "email": "akshaimadrid@gmail.com",
+        "phone": "9846988251",
+        "address": "Attipara village technopark campus plot no .1 thiruvanathapuram kerala",
+        "profile_image": "",
+        "role": "coustomer",
+        "created_at": "2026-06-10T12:41:55.826Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 6,
+    "fields": {
+        "user": [
+            "kroos"
+        ],
+        "name": "kroos",
+        "email": "kroos@gmail.com",
+        "phone": "9846988254",
+        "address": "Attipara village technopark campus plot no .1 thiruvanathapuram kerala",
+        "profile_image": "",
+        "role": "customer",
+        "created_at": "2026-06-14T14:18:38.208Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 7,
+    "fields": {
+        "user": [
+            "devnand"
+        ],
+        "name": "devnand",
+        "email": "dev@gmail.com",
+        "phone": "9995727263",
+        "address": "devhome",
+        "profile_image": "",
+        "role": "customer",
+        "created_at": "2026-06-23T09:07:28.011Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 8,
+    "fields": {
+        "user": [
+            "subha"
+        ],
+        "name": "subha",
+        "email": "subha@gmail.com",
+        "phone": "8129081163",
+        "address": "subh\"bhavan",
+        "profile_image": "",
+        "role": "customer",
+        "created_at": "2026-06-28T08:15:11.344Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 9,
+    "fields": {
+        "user": [
+            "testuser"
+        ],
+        "name": "testuser",
+        "email": "testuser@example.com",
+        "phone": "1234567890",
+        "address": "123 Test Street",
+        "profile_image": "",
+        "role": "customer",
+        "created_at": "2026-07-07T15:31:22.379Z"
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 10,
+    "fields": {
+        "user": [
+            "Rahulsharma"
+        ],
+        "name": "Rahulsharma",
+        "email": "rahul@gmail.com",
+        "phone": "9876543210",
+        "address": "45 MG Road, Kochi, Kerala 682001",
+        "profile_image": "profile_images/2026-07-04_12.24.02.jpg",
+        "role": "customer",
+        "created_at": "2026-07-09T06:25:29.512Z"
     }
 },
 {
