@@ -20,15 +20,15 @@ try:
     from django.core.management import call_command
     from django.db import connection
     
-    # Check if there are any tables; if not, migrate and load
-    if not connection.introspection.table_names():
-        print("Running initial migrations...")
-        call_command('migrate', interactive=False)
-        
-        data_file = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data.json')
-        if os.path.exists(data_file):
-            print("Loading initial data...")
-            call_command('loaddata', data_file)
-            print("Data loaded successfully.")
+    # Always migrate to ensure tables exist
+    print("Running migrations...")
+    call_command('migrate', interactive=False)
+    
+    data_file = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data.json')
+    if os.path.exists(data_file):
+        print("Loading initial data...")
+        call_command('loaddata', data_file)
+        print("Data loaded successfully.")
 except Exception as e:
     print(f"Startup script error: {e}")
+
