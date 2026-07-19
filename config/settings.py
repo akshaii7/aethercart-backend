@@ -1,5 +1,6 @@
 import os
 from pathlib import Path
+from datetime import timedelta
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -169,13 +170,18 @@ REST_FRAMEWORK = {
 }
 
 # ==========================================
-# SESSION & COOKIE SETTINGS FOR AUTO-LOGOUT FIX
+# SESSION & COOKIE SETTINGS FOR DJANGO ADMIN
 # ==========================================
-# Keeps the user logged in for 2 weeks (in seconds)
 SESSION_COOKIE_AGE = 1209600  
-
-# Prevents the session from expiring when the browser is closed
 SESSION_EXPIRE_AT_BROWSER_CLOSE = False  
-
-# Automatically saves the session on every request modified
 SESSION_SAVE_EVERY_REQUEST = True
+
+# ==========================================
+# JWT TOKEN SETTINGS FOR FRONTEND AUTO-LOGOUT FIX
+# ==========================================
+SIMPLE_JWT = {
+    'ACCESS_TOKEN_LIFETIME': timedelta(days=1),      # Token remains active for 1 day
+    'REFRESH_TOKEN_LIFETIME': timedelta(days=7),     # Login persistence lasts for 7 days
+    'ROTATE_REFRESH_TOKENS': True,
+    'BLACKLIST_AFTER_ROTATION': True,
+}
