@@ -167,3 +167,15 @@ REST_FRAMEWORK = {
         "rest_framework.permissions.AllowAny",
     ),
 }
+
+# ==========================================
+# SESSION & COOKIE SETTINGS FOR AUTO-LOGOUT FIX
+# ==========================================
+# Keeps the user logged in for 2 weeks (in seconds)
+SESSION_COOKIE_AGE = 1209600  
+
+# Prevents the session from expiring when the browser is closed
+SESSION_EXPIRE_AT_BROWSER_CLOSE = False  
+
+# Automatically saves the session on every request modified
+SESSION_SAVE_EVERY_REQUEST = True
