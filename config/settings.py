@@ -18,7 +18,9 @@ SECRET_KEY = os.getenv(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.getenv('DEBUG', 'True') == 'True'
 
-# ALLOWED_HOSTS configuration
+# ==========================================
+# ALLOWED HOSTS CONFIGURATION
+# ==========================================
 allowed_hosts_env = os.getenv('ALLOWED_HOSTS', '')
 if allowed_hosts_env:
     ALLOWED_HOSTS = [host.strip() for host in allowed_hosts_env.split(',') if host.strip()]
@@ -58,7 +60,7 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
-    'corsheaders.middleware.CorsMiddleware',
+    'corsheaders.middleware.CorsMiddleware',  # ഇത് മുകളിൽ തന്നെ കിടക്കണം
     'django.middleware.security.SecurityMiddleware',
     'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -137,7 +139,6 @@ USE_TZ = True
 STATIC_URL = 'static/'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
-
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 
@@ -152,13 +153,24 @@ MEDIA_ROOT = BASE_DIR / 'media'
 RAZORPAY_KEY_ID = os.getenv("RAZORPAY_KEY_ID", "rzp_test_SrvHdRirv4LWsv")
 RAZORPAY_KEY_SECRET = os.getenv("RAZORPAY_KEY_SECRET", "acDvBPxOCbwreZaU12TN5IdO")
 
+# ==========================================
+# CORS & CSRF SETTINGS FOR ANTIGRAVITY / LOGIN FIX
+# ==========================================
+CORS_ALLOW_ALL_ORIGINS = True  # ടെസ്റ്റിംഗിനും കണക്ഷൻ എറർ പൂർണ്ണമായി മാറാനും ഇത് സഹായിക്കും
+CORS_ALLOW_CREDENTIALS = True
+
 CORS_ALLOWED_ORIGINS = [
+    "https://aethercart-frontend.vercel.app",  # നിങ്ങളുടെ ലൈവ് Vercel ഫ്രണ്ട്എൻഡ് ലിങ്ക്
     "http://localhost:5173",
     "http://localhost:5174",
     "http://localhost:5175",
 ]
 
-CORS_ALLOW_ALL_ORIGINS = True
+# 403 Forbidden എറർ പരിഹരിക്കാൻ ഇത് നിർബന്ധമാണ്
+CSRF_TRUSTED_ORIGINS = [
+    "https://aethercart-frontend.vercel.app",
+    "https://aethercart-backend.onrender.com",
+]
 
 REST_FRAMEWORK = {
     "DEFAULT_AUTHENTICATION_CLASSES": (
