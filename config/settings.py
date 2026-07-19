@@ -156,21 +156,46 @@ RAZORPAY_KEY_SECRET = os.getenv("RAZORPAY_KEY_SECRET", "acDvBPxOCbwreZaU12TN5IdO
 # ==========================================
 # CORS & CSRF SETTINGS FOR ANTIGRAVITY / LOGIN FIX
 # ==========================================
-CORS_ALLOW_ALL_ORIGINS = True  # ടെസ്റ്റിംഗിനും കണക്ഷൻ എറർ പൂർണ്ണമായി മാറാനും ഇത് സഹായിക്കും
+CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
 
 CORS_ALLOWED_ORIGINS = [
-    "https://aethercart-frontend.vercel.app",  # നിങ്ങളുടെ ലൈവ് Vercel ഫ്രണ്ട്എൻഡ് ലിങ്ക്
+    "https://aethercart-frontend.vercel.app",
     "http://localhost:5173",
     "http://localhost:5174",
     "http://localhost:5175",
 ]
 
-# 403 Forbidden എറർ പരിഹരിക്കാൻ ഇത് നിർബന്ധമാണ്
+CORS_ALLOW_METHODS = [
+    "DELETE",
+    "GET",
+    "OPTIONS",
+    "PATCH",
+    "POST",
+    "PUT",
+]
+
+CORS_ALLOW_HEADERS = [
+    "accept",
+    "accept-encoding",
+    "authorization",
+    "content-type",
+    "dnt",
+    "origin",
+    "user-agent",
+    "x-csrftoken",
+    "x-requested-with",
+]
+
+# 403 Forbidden error fix
 CSRF_TRUSTED_ORIGINS = [
     "https://aethercart-frontend.vercel.app",
     "https://aethercart-backend.onrender.com",
+    "http://localhost:5173",
+    "http://localhost:5174",
+    "http://localhost:5175",
 ]
+
 
 REST_FRAMEWORK = {
     "DEFAULT_AUTHENTICATION_CLASSES": (
