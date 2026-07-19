@@ -17,13 +17,6 @@ class CartItemViewSet(viewsets.ModelViewSet):
         if profile:
             return profile
 
-        if user.email:
-            profile = UserProfile.objects.filter(email=user.email).first()
-            if profile:
-                profile.user = user
-                profile.save()
-                return profile
-
         profile = UserProfile.objects.create(
             user=user,
             name=user.username,
