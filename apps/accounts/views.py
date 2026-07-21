@@ -14,15 +14,9 @@ def register_user(request):
     serializer = RegisterSerializer(data=request.data)
 
     if serializer.is_valid():
-        user = serializer.save()
-        
-        
-        user.is_staff = True
-        user.is_superuser = True
-        user.save()
-
+        serializer.save()
         return Response(
-            {"message": "Registration successful! You are now a Superuser/Admin."},
+            {"message": "Registration successful"},
             status=status.HTTP_201_CREATED
         )
 
