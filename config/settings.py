@@ -1,4 +1,3 @@
-
 import os
 import dj_database_url
 from pathlib import Path
@@ -21,9 +20,8 @@ SECRET_KEY = os.getenv(
 DEBUG = os.getenv('DEBUG', 'True') == 'True'
 
 # ==========================================
-# ALLOWED HOSTS CONFIGURATION (100% FIXED)
+# ALLOWED HOSTS CONFIGURATION
 # ==========================================
-# Direct explicit definitions to ensure Render does not block Vercel requests
 ALLOWED_HOSTS = [
     'aethercart-backend.onrender.com',
     'aethercart-frontend.vercel.app',
@@ -62,7 +60,7 @@ INSTALLED_APPS = [
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',  # Must remain at the top
     'django.middleware.security.SecurityMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware', # For serving static files in production
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -139,7 +137,15 @@ USE_TZ = True
 STATIC_URL = 'static/'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+# Whitenoise configuration for static files (Django 4.2+)
+STORAGES = {
+    "default": {
+        "BACKEND": "django.core.files.storage.FileSystemStorage",
+    },
+    "staticfiles": {
+        "BACKEND": "whitenoise.storage.CompressedManifestStaticFilesStorage",
+    },
+}
 
 
 # Media files (uploaded images)
