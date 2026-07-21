@@ -1,0 +1,1230 @@
+[
+{
+  "model": "accounts.userprofile",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "Akshaii"
+    ],
+    "name": "Akshaii",
+    "email": "itsakshai17@gmail.com",
+    "phone": "9846988251",
+    "address": "Name: Akshaii\r\nAddress: Akshai\" s Home Triavndrum\r\nCity: Trivandrum\r\nState: Kerala\r\nPIN: 695001\r\nCountry: India\r\nPhone: 9846988251",
+    "profile_image": "profile_images/WhatsApp_Image_2026-06-21_at_12.36.47.jpeg",
+    "role": "admin",
+    "created_at": "2026-05-17T09:56:12.988Z"
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 3,
+  "fields": {
+    "user": null,
+    "name": "varun Prabhakar",
+    "email": "varun.driver@gmail.com",
+    "phone": "9895123456",
+    "address": "Pattom Junction, Trivandrum, Kerala",
+    "profile_image": "",
+    "role": "driver",
+    "created_at": "2026-05-19T18:24:50.105Z"
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 4,
+  "fields": {
+    "user": null,
+    "name": "Achu",
+    "email": "itsakshai17@gamil.com",
+    "phone": "9846988251",
+    "address": "ajin nivas parayam vilakam anad po nedumagad trivandrum",
+    "profile_image": "",
+    "role": "customer",
+    "created_at": "2026-06-09T13:10:37.062Z"
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "achu"
+    ],
+    "name": "achu",
+    "email": "akshaimadrid@gmail.com",
+    "phone": "9846988251",
+    "address": "Attipara village technopark campus plot no .1 thiruvanathapuram kerala",
+    "profile_image": "",
+    "role": "coustomer",
+    "created_at": "2026-06-10T12:41:55.826Z"
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "kroos"
+    ],
+    "name": "kroos",
+    "email": "kroos@gmail.com",
+    "phone": "9846988254",
+    "address": "Attipara village technopark campus plot no .1 thiruvanathapuram kerala",
+    "profile_image": "",
+    "role": "customer",
+    "created_at": "2026-06-14T14:18:38.208Z"
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "devnand"
+    ],
+    "name": "devnand",
+    "email": "dev@gmail.com",
+    "phone": "9995727263",
+    "address": "devhome",
+    "profile_image": "",
+    "role": "customer",
+    "created_at": "2026-06-23T09:07:28.011Z"
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 8,
+  "fields": {
+    "user": [
+      "subha"
+    ],
+    "name": "subha",
+    "email": "subha@gmail.com",
+    "phone": "8129081163",
+    "address": "subh\"bhavan",
+    "profile_image": "",
+    "role": "customer",
+    "created_at": "2026-06-28T08:15:11.344Z"
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 9,
+  "fields": {
+    "user": [
+      "testuser"
+    ],
+    "name": "testuser",
+    "email": "testuser@example.com",
+    "phone": "1234567890",
+    "address": "123 Test Street",
+    "profile_image": "",
+    "role": "customer",
+    "created_at": "2026-07-07T15:31:22.379Z"
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 10,
+  "fields": {
+    "user": [
+      "Rahulsharma"
+    ],
+    "name": "Rahulsharma",
+    "email": "rahul@gmail.com",
+    "phone": "9876543210",
+    "address": "45 MG Road, Kochi, Kerala 682001",
+    "profile_image": "profile_images/2026-07-04_12.24.02.jpg",
+    "role": "customer",
+    "created_at": "2026-07-09T06:25:29.512Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 16,
+  "fields": {
+    "name": "Shadow Oversized Hoodie",
+    "brand": "Shadow",
+    "description": "The Shadow Oversized Hoodie combines premium comfort with modern streetwear style. Crafted from heavyweight cotton fabric, it features an oversized fit, dropped shoulders, ribbed cuffs, and a spacious kangaroo pocket. Designed for everyday wear, it delivers a clean minimalist aesthetic with exceptional comfort and durability.",
+    "price": "3499.00",
+    "stock": 25,
+    "category": "fashion",
+    "image": "products/hoddies_black_mZjw6Ef.png",
+    "is_available": true,
+    "created_at": "2026-06-08T08:44:44.735Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 17,
+  "fields": {
+    "name": "Nike Shox TL",
+    "brand": "Nike",
+    "description": "Nike Shox TL is a stylish white sneaker with a clean premium look and bold black Nike Swoosh branding. It features a breathable mesh upper with synthetic leather overlays for durability and structure. The signature Shox cushioning system at the heel gives the shoe a unique sporty design and comfortable support. Its chunky retro style makes it perfect for casual wear, streetwear outfits, and everyday fashion. The white colorway gives it a clean and versatile look that matches easily with jeans, cargos, joggers, or shorts.",
+    "price": "3299.00",
+    "stock": 25,
+    "category": "fashion",
+    "image": "products/IMG_6541.jpg",
+    "is_available": true,
+    "created_at": "2026-06-08T16:06:17.821Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 19,
+  "fields": {
+    "name": "Iphone 17 Pro Max",
+    "brand": "Apple",
+    "description": "Experience uncompromising performance with the iPhone 17 Pro Max. Powered by the A19 Pro chip, featuring a 48MP Fusion camera, 4K Dolby Vision recording, and all-day battery life. Designed for speed, creativity, and the future.",
+    "price": "149000.00",
+    "stock": 10,
+    "category": "electronics",
+    "image": "products/image_WxQ6Mt3.png",
+    "is_available": true,
+    "created_at": "2026-07-05T17:09:53.252Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 20,
+  "fields": {
+    "name": "Lumira Wellness Hydrating Face Serum",
+    "brand": "Lumira Wellness",
+    "description": "A lightweight, fast-absorbing face serum enriched with Hyaluronic Acid, Niacinamide, and Vitamin E to deeply hydrate, brighten, and restore your skin’s natural glow. Suitable for all skin types.",
+    "price": "1299.00",
+    "stock": 6,
+    "category": "beauty",
+    "image": "products/photo_2026-07-12_11.32.25.jpeg",
+    "is_available": true,
+    "created_at": "2026-07-12T06:06:57.257Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 21,
+  "fields": {
+    "name": "Innisfree Green Tea Seed Intensive Hydrating Serum",
+    "brand": "Innisfree",
+    "description": "A lightweight, deeply hydrating facial serum enriched with Green Tea Seed and Hyaluronic Acid to replenish moisture, strengthen the skin barrier, and leave skin soft, smooth, and radiant.",
+    "price": "2199.00",
+    "stock": 12,
+    "category": "beauty",
+    "image": "products/photo_2026-07-12_11.32.22.jpeg",
+    "is_available": true,
+    "created_at": "2026-07-12T06:10:15.014Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 23,
+  "fields": {
+    "name": "Apple AirPods Max (Sky Blue)",
+    "brand": "Apple",
+    "description": "Premium over-ear wireless headphones featuring Active Noise Cancellation, Personalized Spatial Audio, Adaptive EQ, and up to 20 hours of immersive listening with exceptional comfort.",
+    "price": "59900.00",
+    "stock": 10,
+    "category": "electronics",
+    "image": "products/photo_2026-07-12_11.32.03.jpeg",
+    "is_available": true,
+    "created_at": "2026-07-12T06:17:48.281Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 24,
+  "fields": {
+    "name": "Glossier Perfecting Skin Tint Foundation",
+    "brand": "Glossier",
+    "description": "A lightweight, buildable skin tint foundation that delivers a natural, radiant finish while evening out skin tone. Perfect for daily wear with a breathable, comfortable formula.",
+    "price": "2499.00",
+    "stock": 10,
+    "category": "beauty",
+    "image": "products/photo_2026-07-12_11.32.39.jpeg",
+    "is_available": true,
+    "created_at": "2026-07-12T06:19:41.871Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 25,
+  "fields": {
+    "name": "Matcha Oat Latte",
+    "brand": "OATSIDE",
+    "description": "A smooth and creamy plant-based oat latte blended with premium matcha. Made with 3750mg of matcha and enriched with 20mg of L-Theanine for a balanced, refreshing, and energizing drink. Perfect served chilled as a dairy-free beverage.",
+    "price": "249.00",
+    "stock": 14,
+    "category": "grocery",
+    "image": "products/image_mNxclnX.png",
+    "is_available": true,
+    "created_at": "2026-07-12T06:42:54.286Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 26,
+  "fields": {
+    "name": "Cherry Soda",
+    "brand": "BLOOM",
+    "description": "Description: Refreshing cherry-flavored prebiotic soda with a crisp, fruity taste. Crafted with premium ingredients and packaged in a sleek matte white aluminum can for a modern, premium look.",
+    "price": "149.00",
+    "stock": 10,
+    "category": "grocery",
+    "image": "products/image_zhhRObo.png",
+    "is_available": true,
+    "created_at": "2026-07-12T06:58:06.313Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 27,
+  "fields": {
+    "name": "MELTO Smart Aroma Lamp",
+    "brand": "MELTO",
+    "description": "A premium smart aroma lamp designed with a minimalist aesthetic. Features adjustable lighting, multiple fan/intensity modes, one-touch controls, quiet operation, and a modern matte finish. Perfect for bedrooms, offices, living rooms, and creating a relaxing atmosphere.",
+    "price": "999.00",
+    "stock": 13,
+    "category": "home",
+    "image": "products/2026-07-12_12.32.39.jpg",
+    "is_available": true,
+    "created_at": "2026-07-12T07:04:38.595Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 30,
+  "fields": {
+    "name": "ATHLEX",
+    "brand": "Varsity 23 Oversized Jersey",
+    "description": "Premium oversized varsity jersey crafted from lightweight, breathable performance fabric. Features bold number graphics, ribbed V-neck collar, relaxed fit, and moisture-wicking technology for all-day comfort. Perfect for casual streetwear, sports, and everyday styling.",
+    "price": "1999.00",
+    "stock": 15,
+    "category": "fashion",
+    "image": "products/image_sYc8MMl.png",
+    "is_available": true,
+    "created_at": "2026-07-12T07:33:24.369Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 31,
+  "fields": {
+    "name": "Good Smell Eau de Parfum",
+    "brand": "LAUDE",
+    "description": "A premium long-lasting eau de parfum crafted for men who appreciate elegance and confidence. Featuring fresh citrus top notes, a woody heart, and warm amber-musky base notes, this fragrance delivers a sophisticated scent that lasts all day.",
+    "price": "3499.00",
+    "stock": 10,
+    "category": "beauty",
+    "image": "products/2026-07-12_13.09.30.jpg",
+    "is_available": true,
+    "created_at": "2026-07-12T07:41:19.744Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 32,
+  "fields": {
+    "name": "Apple MacBook Air M5",
+    "brand": "Apple",
+    "description": "The MacBook Air M5 is Apple’s ultra-thin and lightweight laptop designed for students, professionals, and everyday users. It features the Apple M5 chip, offering faster performance, improved AI capabilities, excellent battery life, and silent fanless operation. It is available in 13-inch and 15-inch sizes.",
+    "price": "120000.00",
+    "stock": 10,
+    "category": "electronics",
+    "image": "products/2026-07-14_19.45.59.jpg",
+    "is_available": true,
+    "created_at": "2026-07-14T14:19:12.015Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 31,
+  "fields": {
+    "customer": 4,
+    "delivery_address": "Akshai, 9846988251, Akshai 's Home Trivandrum kerala, india, Trivandrum, Pincode: 695541, Payment: Cash on Delivery",
+    "total_amount": "10497.00",
+    "status": "pending",
+    "return_status": "not_available",
+    "created_at": "2026-06-28T07:59:36.943Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 32,
+  "fields": {
+    "customer": 4,
+    "delivery_address": "subha, 8129081163, Ajin\"s Home Triavndrum, Trivandrum,Kerla, Pincode: 895542, Payment: Card",
+    "total_amount": "3499.00",
+    "status": "pending",
+    "return_status": "not_available",
+    "created_at": "2026-06-28T08:05:23.427Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 33,
+  "fields": {
+    "customer": 7,
+    "delivery_address": "devnand, 9846988251, dev Home , Anad Trivandrum Kerala , india, Trivandrum, Pincode: 695541, Payment: Card",
+    "total_amount": "3299.00",
+    "status": "pending",
+    "return_status": "not_available",
+    "created_at": "2026-06-28T14:56:48.918Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 34,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Achu Vs, 9744094201, Achu \"Home Anad Trivandrum, Trivandrum, Pincode: 695541, Payment: Cash on Delivery",
+    "total_amount": "6598.00",
+    "status": "pending",
+    "return_status": "not_available",
+    "created_at": "2026-06-28T15:05:42.241Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 35,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Akshai , 9846988251, Ajin Nivas Parayam Vilakam Anad po, Triavndrum, Pincode: 695541, Payment: Cash on Delivery",
+    "total_amount": "27792.00",
+    "status": "pending",
+    "return_status": "not_available",
+    "created_at": "2026-06-29T07:25:33.001Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 36,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Akshaii, 9846988251, Akshai Home Trivandrum, Trivandrum, Pincode: 695541, Payment: Razorpay",
+    "total_amount": "10097.00",
+    "status": "pending",
+    "return_status": "not_available",
+    "created_at": "2026-06-29T07:50:59.077Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 37,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Akshai Krishna s s, 9846988251, Akshai Home Anad , Triavndrum, Pincode: 695541, Payment: Razorpay",
+    "total_amount": "3299.00",
+    "status": "pending",
+    "return_status": "not_available",
+    "created_at": "2026-06-29T08:11:35.328Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 38,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Akshai Krishna s s, 9846988251, Akshai india, Triavndrum, Pincode: 695541, Payment: Cash on Delivery",
+    "total_amount": "3499.00",
+    "status": "pending",
+    "return_status": "not_available",
+    "created_at": "2026-06-29T08:16:34.527Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 39,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Ummanan, 9846988251, ummana Nivas Anad , Triavndrum, Pincode: 695541, Payment: Razorpay",
+    "total_amount": "3499.00",
+    "status": "pending",
+    "return_status": "not_available",
+    "created_at": "2026-06-29T14:25:32.879Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 40,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Akshai Krishna s s, 8129081163, akshai\"home england , manchester, Pincode: 667788, Payment: Razorpay",
+    "total_amount": "10097.00",
+    "status": "pending",
+    "return_status": "not_available",
+    "created_at": "2026-07-02T17:33:43.878Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 41,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "devnanand, 8129081163, dev home trivandrum, Triavndrum, Pincode: 897754, Payment: Razorpay",
+    "total_amount": "3499.00",
+    "status": "pending",
+    "return_status": "not_available",
+    "created_at": "2026-07-04T08:01:33.331Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 42,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Ajin Krishna, 8129081163, Ajin Home Anad po. Ndeumagadu, Trivandrum, Triavndrum, Pincode: 697752, Payment: Razorpay",
+    "total_amount": "152299.00",
+    "status": "pending",
+    "return_status": "approved",
+    "created_at": "2026-07-05T18:33:32.523Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 43,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Awan, 9846988251, Aswan Home Trivandrum , Kerala, Triavndrum, Pincode: 695541, Payment: Razorpay",
+    "total_amount": "149000.00",
+    "status": "delivered",
+    "return_status": "approved",
+    "created_at": "2026-07-06T08:40:23.142Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 44,
+  "fields": {
+    "customer": 10,
+    "delivery_address": "Rahulsharma, 9876543210, 45 MG Road, Kochi, Kerala 682001, Kochi , Pincode: 678853, Payment: Razorpay",
+    "total_amount": "3499.00",
+    "status": "delivered",
+    "return_status": "rejected",
+    "created_at": "2026-07-09T06:28:52.619Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 45,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Ajas, 9876543210, Ajas Home Trivandrum , kerala, Triavndrum, Pincode: 678853, Payment: Razorpay",
+    "total_amount": "249.00",
+    "status": "pending",
+    "return_status": "none",
+    "created_at": "2026-07-12T07:18:35.558Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 46,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Ajas, 9876543210, Ajas Home Trivandrum , kerala, Triavndrum, Pincode: 678853, Payment: Razorpay",
+    "total_amount": "3499.00",
+    "status": "pending",
+    "return_status": "none",
+    "created_at": "2026-07-12T07:18:35.570Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 47,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Ajas, 9876543210, Ajas Home Trivandrum , kerala, Triavndrum, Pincode: 678853, Payment: Razorpay",
+    "total_amount": "149000.00",
+    "status": "pending",
+    "return_status": "none",
+    "created_at": "2026-07-12T07:18:35.579Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 48,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "Ajas, 9876543210, Ajas Home Trivandrum , kerala, Triavndrum, Pincode: 678853, Payment: Razorpay",
+    "total_amount": "3299.00",
+    "status": "delivered",
+    "return_status": "approved",
+    "created_at": "2026-07-12T07:18:35.587Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 49,
+  "fields": {
+    "customer": 2,
+    "delivery_address": "cewfq34w",
+    "total_amount": "344444.00",
+    "status": "delivered",
+    "return_status": "approved",
+    "created_at": "2026-07-19T12:54:26.659Z"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 51,
+  "fields": {
+    "order": 31,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 52,
+  "fields": {
+    "order": 31,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 53,
+  "fields": {
+    "order": 31,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 54,
+  "fields": {
+    "order": 32,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 55,
+  "fields": {
+    "order": 33,
+    "product": 17,
+    "quantity": 1,
+    "price": "3299.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 56,
+  "fields": {
+    "order": 34,
+    "product": 17,
+    "quantity": 1,
+    "price": "3299.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 57,
+  "fields": {
+    "order": 34,
+    "product": 17,
+    "quantity": 1,
+    "price": "3299.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 58,
+  "fields": {
+    "order": 35,
+    "product": 17,
+    "quantity": 1,
+    "price": "3299.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 59,
+  "fields": {
+    "order": 35,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 60,
+  "fields": {
+    "order": 35,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 61,
+  "fields": {
+    "order": 35,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 62,
+  "fields": {
+    "order": 35,
+    "product": 16,
+    "quantity": 3,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 63,
+  "fields": {
+    "order": 35,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 64,
+  "fields": {
+    "order": 36,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 65,
+  "fields": {
+    "order": 36,
+    "product": 17,
+    "quantity": 1,
+    "price": "3299.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 66,
+  "fields": {
+    "order": 36,
+    "product": 17,
+    "quantity": 1,
+    "price": "3299.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 67,
+  "fields": {
+    "order": 37,
+    "product": 17,
+    "quantity": 1,
+    "price": "3299.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 68,
+  "fields": {
+    "order": 38,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 69,
+  "fields": {
+    "order": 39,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 70,
+  "fields": {
+    "order": 40,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 71,
+  "fields": {
+    "order": 40,
+    "product": 17,
+    "quantity": 1,
+    "price": "3299.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 72,
+  "fields": {
+    "order": 40,
+    "product": 17,
+    "quantity": 1,
+    "price": "3299.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 73,
+  "fields": {
+    "order": 41,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 74,
+  "fields": {
+    "order": 42,
+    "product": 19,
+    "quantity": 1,
+    "price": "149000.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 75,
+  "fields": {
+    "order": 42,
+    "product": 17,
+    "quantity": 1,
+    "price": "3299.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 76,
+  "fields": {
+    "order": 43,
+    "product": 19,
+    "quantity": 1,
+    "price": "149000.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 77,
+  "fields": {
+    "order": 44,
+    "product": 16,
+    "quantity": 1,
+    "price": "3499.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 78,
+  "fields": {
+    "order": 45,
+    "product": 25,
+    "quantity": 1,
+    "price": "249.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 80,
+  "fields": {
+    "order": 47,
+    "product": 19,
+    "quantity": 1,
+    "price": "149000.00"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 81,
+  "fields": {
+    "order": 48,
+    "product": 17,
+    "quantity": 1,
+    "price": "3299.00"
+  }
+},
+{
+  "model": "cart.cartitem",
+  "pk": 104,
+  "fields": {
+    "customer": 8,
+    "product": 16,
+    "quantity": 1,
+    "added_at": "2026-06-28T14:55:05.554Z"
+  }
+},
+{
+  "model": "cart.cartitem",
+  "pk": 123,
+  "fields": {
+    "customer": 8,
+    "product": 16,
+    "quantity": 1,
+    "added_at": "2026-07-04T09:59:46.876Z"
+  }
+},
+{
+  "model": "cart.cartitem",
+  "pk": 141,
+  "fields": {
+    "customer": 10,
+    "product": 16,
+    "quantity": 1,
+    "added_at": "2026-07-09T06:26:34.180Z"
+  }
+},
+{
+  "model": "cart.cartitem",
+  "pk": 144,
+  "fields": {
+    "customer": 2,
+    "product": 26,
+    "quantity": 1,
+    "added_at": "2026-07-12T07:47:56.634Z"
+  }
+},
+{
+  "model": "reviews.review",
+  "pk": 1,
+  "fields": {
+    "product": 17,
+    "customer": 8,
+    "rating": 5,
+    "comment": "exllent product",
+    "created_at": "2026-07-01T07:58:38.290Z"
+  }
+},
+{
+  "model": "reviews.review",
+  "pk": 2,
+  "fields": {
+    "product": 19,
+    "customer": 2,
+    "rating": 5,
+    "comment": "Experience uncompromising performance with the iPhone 17 Pro Max. Powered by the A19 Pro chip, featuring a 48MP Fusion camera, 4K Dolby Vision recording, and all-day battery life. Designed for speed, creativity, and the future.",
+    "created_at": "2026-07-05T17:22:39.697Z"
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 6,
+  "fields": {
+    "order": 31,
+    "driver": 3,
+    "status": "out_for_delivery",
+    "current_location": "Anad",
+    "delivered_at": "2026-06-09T06:00:00Z",
+    "created_at": "2026-06-28T15:07:44.343Z"
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 7,
+  "fields": {
+    "order": 34,
+    "driver": 6,
+    "status": "delivered",
+    "current_location": "Nedumagad",
+    "delivered_at": "2026-06-08T15:08:46Z",
+    "created_at": "2026-06-28T15:08:49.390Z"
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 8,
+  "fields": {
+    "order": 35,
+    "driver": 3,
+    "status": "delivered",
+    "current_location": "Nedumagad",
+    "delivered_at": "2026-06-29T08:19:03Z",
+    "created_at": "2026-06-29T08:19:04.457Z"
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 9,
+  "fields": {
+    "order": 42,
+    "driver": 3,
+    "status": "delivered",
+    "current_location": "Anad",
+    "delivered_at": "2026-07-04T18:34:57Z",
+    "created_at": "2026-07-05T18:34:59.912Z"
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 10,
+  "fields": {
+    "order": 43,
+    "driver": 3,
+    "status": "delivered",
+    "current_location": "Trivandrum , vattapara",
+    "delivered_at": "2026-07-06T08:51:25Z",
+    "created_at": "2026-07-06T08:51:27.507Z"
+  }
+},
+{
+  "model": "delivery.delivery",
+  "pk": 11,
+  "fields": {
+    "order": 48,
+    "driver": 3,
+    "status": "delivered",
+    "current_location": "Nedeumagadu",
+    "delivered_at": "2026-07-06T07:51:28Z",
+    "created_at": "2026-07-12T07:51:30.538Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 1,
+  "fields": {
+    "user": 4,
+    "title": "Order Placed",
+    "message": "Your order #26 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-06-24T13:48:46.645Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 2,
+  "fields": {
+    "user": 4,
+    "title": "Order Placed",
+    "message": "Your order #27 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-06-27T17:14:59.339Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 3,
+  "fields": {
+    "user": 4,
+    "title": "Order Placed",
+    "message": "Your order #28 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-06-27T17:28:37.660Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 4,
+  "fields": {
+    "user": 4,
+    "title": "Order Placed",
+    "message": "Your order #29 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-06-28T06:35:33.316Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 5,
+  "fields": {
+    "user": 4,
+    "title": "Order Placed",
+    "message": "Your order #30 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-06-28T07:30:20.390Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 6,
+  "fields": {
+    "user": 4,
+    "title": "Order Placed",
+    "message": "Your order #31 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-06-28T07:59:36.951Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 7,
+  "fields": {
+    "user": 4,
+    "title": "Order Placed",
+    "message": "Your order #32 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-06-28T08:05:23.431Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 8,
+  "fields": {
+    "user": 2,
+    "title": "Order Placed",
+    "message": "Your order #38 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-06-29T08:16:34.531Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 9,
+  "fields": {
+    "user": 2,
+    "title": "Order Placed",
+    "message": "Your order #39 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-06-29T14:25:32.885Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 10,
+  "fields": {
+    "user": 2,
+    "title": "Order Placed",
+    "message": "Your order #40 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-07-02T17:33:43.886Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 11,
+  "fields": {
+    "user": 2,
+    "title": "Order Placed",
+    "message": "Your order #41 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-07-04T08:01:33.337Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 12,
+  "fields": {
+    "user": 2,
+    "title": "Order Placed",
+    "message": "Your order #42 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-07-05T18:33:32.527Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 13,
+  "fields": {
+    "user": 2,
+    "title": "Order Placed",
+    "message": "Your order #43 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-07-06T08:40:23.145Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 14,
+  "fields": {
+    "user": 2,
+    "title": "Return Requested",
+    "message": "Return request submitted for Order #43",
+    "is_read": false,
+    "created_at": "2026-07-06T09:18:12.393Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 15,
+  "fields": {
+    "user": 10,
+    "title": "Order Placed",
+    "message": "Your order #44 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-07-09T06:28:52.622Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 16,
+  "fields": {
+    "user": 10,
+    "title": "Return Requested",
+    "message": "Return request submitted for Order #44",
+    "is_read": false,
+    "created_at": "2026-07-09T06:30:01.817Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 17,
+  "fields": {
+    "user": 2,
+    "title": "Order Placed",
+    "message": "Your order #45 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-07-12T07:18:35.562Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 18,
+  "fields": {
+    "user": 2,
+    "title": "Order Placed",
+    "message": "Your order #46 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-07-12T07:18:35.572Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 19,
+  "fields": {
+    "user": 2,
+    "title": "Order Placed",
+    "message": "Your order #47 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-07-12T07:18:35.580Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 20,
+  "fields": {
+    "user": 2,
+    "title": "Order Placed",
+    "message": "Your order #48 has been placed successfully.",
+    "is_read": false,
+    "created_at": "2026-07-12T07:18:35.588Z"
+  }
+},
+{
+  "model": "notifications.notification",
+  "pk": 21,
+  "fields": {
+    "user": 2,
+    "title": "Return Requested",
+    "message": "Return request submitted for Order #48",
+    "is_read": false,
+    "created_at": "2026-07-12T07:19:42.967Z"
+  }
+}
+]
