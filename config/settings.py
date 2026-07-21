@@ -1,4 +1,6 @@
+
 import os
+import dj_database_url
 from pathlib import Path
 from datetime import timedelta
 
@@ -19,18 +21,16 @@ SECRET_KEY = os.getenv(
 DEBUG = os.getenv('DEBUG', 'True') == 'True'
 
 # ==========================================
-# ALLOWED HOSTS CONFIGURATION
+# ALLOWED HOSTS CONFIGURATION (100% FIXED)
 # ==========================================
-allowed_hosts_env = os.getenv('ALLOWED_HOSTS', '')
-if allowed_hosts_env:
-    ALLOWED_HOSTS = [host.strip() for host in allowed_hosts_env.split(',') if host.strip()]
-else:
-    ALLOWED_HOSTS = [
-        'aethercart-backend.onrender.com',
-        'localhost',
-        '127.0.0.1',
-        '*',
-    ]
+# Direct explicit definitions to ensure Render does not block Vercel requests
+ALLOWED_HOSTS = [
+    'aethercart-backend.onrender.com',
+    'aethercart-frontend.vercel.app',
+    'localhost',
+    '127.0.0.1',
+    '*',
+]
 
 
 # Application definition
@@ -60,7 +60,7 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
-    'corsheaders.middleware.CorsMiddleware',  # ഇത് മുകളിൽ തന്നെ കിടക്കണം
+    'corsheaders.middleware.CorsMiddleware',  # Must remain at the top
     'django.middleware.security.SecurityMiddleware',
     'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -95,10 +95,10 @@ WSGI_APPLICATION = 'config.wsgi.application'
 # https://docs.djangoproject.com/en/6.0/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
+    'default': dj_database_url.config(
+        default=f'sqlite:///{BASE_DIR / "db.sqlite3"}',
+        conn_max_age=600
+    )
 }
 
 
@@ -154,7 +154,7 @@ RAZORPAY_KEY_ID = os.getenv("RAZORPAY_KEY_ID", "rzp_test_SrvHdRirv4LWsv")
 RAZORPAY_KEY_SECRET = os.getenv("RAZORPAY_KEY_SECRET", "acDvBPxOCbwreZaU12TN5IdO")
 
 # ==========================================
-# CORS & CSRF SETTINGS FOR ANTIGRAVITY / LOGIN FIX
+# CORS & CSRF SETTINGS FOR LOGIN FIX
 # ==========================================
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
