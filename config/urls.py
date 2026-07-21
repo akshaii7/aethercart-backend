@@ -1,9 +1,15 @@
 from django.contrib import admin
 from django.urls import path, include
+from django.shortcuts import redirect
 from django.conf import settings
 from django.conf.urls.static import static
 
+
+def redirect_to_frontend(request):
+    return redirect('https://aethercart-frontend.vercel.app')
+
 urlpatterns = [
+    path('', redirect_to_frontend),
     path("admin/", admin.site.urls),
 
     path("api/accounts/", include("apps.accounts.urls")),
