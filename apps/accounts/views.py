@@ -7,7 +7,6 @@ from rest_framework.decorators import api_view, permission_classes
 from .models import UserProfile
 from .serializers import UserProfileSerializer, RegisterSerializer
 
-
 @api_view(["POST"])
 @permission_classes([AllowAny])
 def register_user(request):
