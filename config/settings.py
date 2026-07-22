@@ -217,9 +217,9 @@ SIMPLE_JWT = {
 # CLOUDINARY MEDIA STORAGE CONFIGURATION
 # ==========================================
 CLOUDINARY_STORAGE = {
-    'CLOUD_NAME': 'qjunh1wb',
-    'API_KEY': '298121221619188',
-    'API_SECRET': 'kXEZuhsxlz3F5NWgkJU5_FXTHR4'  
+    'CLOUD_NAME': os.getenv('CLOUDINARY_CLOUD_NAME', 'qjunh1wb'),
+    'API_KEY': os.getenv('CLOUDINARY_API_KEY', '298121221619188'),
+    'API_SECRET': os.getenv('CLOUDINARY_API_SECRET', 'kXEZuhsxlz3F5NWgkJU5_FXTHR4'),
 }
 
 DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
