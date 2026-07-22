@@ -25,25 +25,31 @@ INSTALLED_APPS = [
     'cloudinary',                       # Cloudinary package
     'corsheaders',                      # CORS Support
     'rest_framework',                   # Django REST Framework
-    
-    # Your Apps (നിങ്ങളുടെ ആപ്പുകളുടെ പേരുകൾ താഴെ കൊടുക്കുക)
-    # 'products',
-    # 'orders',
+
+    # Your Apps (all registered — this was the deploy crash cause)
+    'apps.accounts',
+    'apps.cart',
+    'apps.delivery',
+    'apps.notifications',
+    'apps.orders',
+    'apps.payments',
+    'apps.products',
+    'apps.reviews',
 ]
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware', # Whitenoise Middleware
+    'whitenoise.middleware.WhiteNoiseMiddleware',   # Whitenoise Middleware
     'django.contrib.sessions.middleware.SessionMiddleware',
-    'django.common.middleware.CommonMiddleware',
+    'django.middleware.common.CommonMiddleware',    # FIXED: was 'django.common.middleware.CommonMiddleware'
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'config.urls' # നിങ്ങളുടെ main folder പേര് 'config' അല്ലെങ്കിൽ മാറ്റുക
+ROOT_URLCONF = 'config.urls'  # നിങ്ങളുടെ main folder പേര് 'config' അല്ലെങ്കിൽ മാറ്റുക
 
 TEMPLATES = [
     {
@@ -89,9 +95,9 @@ USE_TZ = True
 # CLOUDINARY CONFIGURATION
 # -------------------------------------------------------------
 CLOUDINARY_STORAGE = {
-    'CLOUD_NAME': 'qjunh1wb',
-    'API_KEY': '298121221619188',
-    'API_SECRET': 'kXEZuhsxlz3F5NWgkJU5_FXTHR4',
+    'CLOUD_NAME': os.getenv('CLOUDINARY_CLOUD_NAME', 'qjunh1wb'),
+    'API_KEY': os.getenv('CLOUDINARY_API_KEY', '298121221619188'),
+    'API_SECRET': os.getenv('CLOUDINARY_API_SECRET', 'kXEZuhsxlz3F5NWgkJU5_FXTHR4'),
 }
 
 # -------------------------------------------------------------
