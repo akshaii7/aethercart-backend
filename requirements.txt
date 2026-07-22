@@ -10,3 +10,11 @@ cloudinary
 django-cloudinary-storage
 razorpay
 requests
+PyJWT
+asgiref
+certifi
+charset-normalizer
+idna
+six
+sqlparse
+urllib3
