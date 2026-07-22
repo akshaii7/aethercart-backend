@@ -89,9 +89,9 @@ USE_TZ = True
 # CLOUDINARY CONFIGURATION
 # -------------------------------------------------------------
 CLOUDINARY_STORAGE = {
-    'CLOUD_NAME': os.getenv('CLOUDINARY_CLOUD_NAME'),
-    'API_KEY': os.getenv('CLOUDINARY_API_KEY'),
-    'API_SECRET': os.getenv('CLOUDINARY_API_SECRET'),
+    'CLOUD_NAME': 'qjunh1wb',
+    'API_KEY': '298121221619188',
+    'API_SECRET': 'kXEZuhsxlz3F5NWgkJU5_FXTHR4',
 }
 
 # -------------------------------------------------------------
