@@ -35,7 +35,11 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
+
+    # Cloudinary Integration (Must be placed BEFORE staticfiles)
+    'cloudinary_storage',
     'django.contrib.staticfiles',
+    'cloudinary',
     
     # Third party apps
     'rest_framework',
@@ -208,3 +212,14 @@ SIMPLE_JWT = {
     'ROTATE_REFRESH_TOKENS': True,
     'BLACKLIST_AFTER_ROTATION': True,
 }
+
+# ==========================================
+# CLOUDINARY MEDIA STORAGE CONFIGURATION
+# ==========================================
+CLOUDINARY_STORAGE = {
+    'CLOUD_NAME': 'qjunh1wb',
+    'API_KEY': '298121221619188',
+    'API_SECRET': 'kXEZuhsxlz3F5NWgkJU5_FXTHR4'  
+}
+
+DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
