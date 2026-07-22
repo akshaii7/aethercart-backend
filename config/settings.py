@@ -125,14 +125,10 @@ USE_TZ = True
 
 
 # ==========================================
-# STATIC FILES CONFIGURATION (100% FIXED FOR RENDER)
+# STATIC FILES CONFIGURATION
 # ==========================================
 STATIC_URL = '/static/'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
-
-# WhiteNoise storage configuration without strict missing file checks
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
-
 
 # Media files (uploaded images)
 MEDIA_URL = '/media/'
@@ -214,7 +210,7 @@ SIMPLE_JWT = {
 }
 
 # ==========================================
-# CLOUDINARY MEDIA STORAGE CONFIGURATION
+# CLOUDINARY MEDIA & STORAGE CONFIGURATION
 # ==========================================
 CLOUDINARY_STORAGE = {
     'CLOUD_NAME': os.getenv('CLOUDINARY_CLOUD_NAME', 'qjunh1wb'),
@@ -222,4 +218,15 @@ CLOUDINARY_STORAGE = {
     'API_SECRET': os.getenv('CLOUDINARY_API_SECRET', 'kXEZuhsxlz3F5NWgkJU5_FXTHR4'),
 }
 
+# Legacy setting for older Django versions
 DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
+
+# Modern Django STORAGES configuration (Django 4.2+)
+STORAGES = {
+    "default": {
+        "BACKEND": "cloudinary_storage.storage.MediaCloudinaryStorage",
+    },
+    "staticfiles": {
+        "BACKEND": "whitenoise.storage.CompressedStaticFilesStorage",
+    },
+}
