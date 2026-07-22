@@ -15,13 +15,13 @@ ALLOWED_HOSTS = ['*']
 
 # Application definition
 INSTALLED_APPS = [
-    'cloudinary_storage',               # Must be above django.contrib.staticfiles
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'cloudinary_storage',
     'cloudinary',                       # Cloudinary package
     'corsheaders',                      # CORS Support
     'rest_framework',                   # Django REST Framework
