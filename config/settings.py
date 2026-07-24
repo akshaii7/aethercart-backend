@@ -134,3 +134,8 @@ REST_FRAMEWORK = {
 SIMPLE_JWT = {
     'AUTH_HEADER_TYPES': ('Bearer',),
 }
+# RAZORPAY CONFIGURATION
+# -------------------------------------------------------------
+RAZORPAY_KEY_ID = os.getenv("RAZORPAY_KEY_ID", "rzp_test_SrvHdRirv4LWsv")
+RAZORPAY_KEY_SECRET = os.getenv("RAZORPAY_KEY_SECRET", "acDvBPxOCbwreZaU12TN5IdO")
+ 
